@@ -22,7 +22,7 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
+      title: "Links to note",
       noBacklinksFound: "No backlinks found",
     },
     themeToggle: {
@@ -30,13 +30,13 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Files",
     },
     footer: {
       createdWith: "Created with",
     },
     graph: {
-      title: "Graph View",
+      title: "Connections graph",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -47,14 +47,14 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "Search garden",
+      searchBarPlaceholder: "what are you looking for?...",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "ToC",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `This'll take about ${minutes} min to read`,
     },
   },
   pages: {
@@ -63,8 +63,8 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      title: "Oops, this isn't here yet!",
+      notFound: "I've probably not yet created a page for this or I've deemed its content to private to be made public.",
     },
     folderContent: {
       folder: "Folder",

@@ -8,22 +8,22 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🔗 Two minded",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "notes.macm-cloud.xyz",
+    ignorePatterns: ["Journal", "Templates", ".obsidian", "Areas/People"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Patua One",
+        body: "Junge",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -32,8 +32,8 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+          dark: "#05386B",
+          secondary: "#05386B",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
