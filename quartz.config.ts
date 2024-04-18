@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Patua One",
-        body: "EB Garamond",
+        header: "Playfair Display",
+        body: "Lora",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -31,7 +31,7 @@ const config: QuartzConfig = {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
+          darkgray: "#000000",
           dark: "#05386B",
           secondary: "#05386B",
           tertiary: "#84a59d",
