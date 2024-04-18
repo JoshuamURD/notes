@@ -1,6 +1,0 @@
----
-tags:
-  - topic
-themes: 
-aliases: 
----
