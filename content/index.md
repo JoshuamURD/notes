@@ -5,6 +5,11 @@ title: Dashboard
 # Purpose
 This is a digital garden. A digital garden is a place where knowledge accumulates. A place where one takes notes from various sources and distills them. Lets ideas grow like a plant would from a garden. Digital gardens have been growing in popularity in the indie internet for a good reason - they provide a way for knowledge to be better contextualised in other settings. 
 In this vault, I will not only use the digital garden as a medium to practice my writing, I'll be using it to develop my [[mental representations|mental representations]] of different topics I learn from literature, videos and podcasts. Not all of these notes will be complete. That is the nature of digital gardens. Notes are draft format. Some of the notes will become very polished which is what most digital gardeners call an "evergreen" note. However, these notes are going to be far and in between at this stage. This is because first I need to accumulate quite a bit of literature to rely on before I start consolidating into a longform article.
+# Inspiration
+Some inspiration for this site and where i hope it to get to in terms of design and writing:
+- Andy Matuschak - notes.andymatuschak.org
+- Gwern - gwern.net
+- Azlen Elza - azlen.me
 # Top of mind
 These are some topics that are of high interest to me at the moment.
 - [[Javascript|Javascript]]
@@ -16,9 +21,9 @@ These are some topics that are of high interest to me at the moment.
 ### Fiction
 | Title                                                                                                  | Date imported  | Author           | Completed? |
 | ------------------------------------------------------------------------------------------------------ | -------------- | ---------------- | ---------- |
+| [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | Daniel Keyes     | false      |
 | [[./Literature notes/Ursla K Le Guin - The Dispossessed\|Ursla K Le Guin - The Dispossessed]]         | March 23, 2024 | Ursla K Le Guin  | true       |
 | [[./Literature notes/Ernest Hemingway - Old Man and the Sea\|Ernest Hemingway - Old Man and the Sea]] | March 23, 2024 | Ernest Hemingway | false      |
-| [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | Daniel Keyes     | false      |
 | [[./Literature notes/Yoel Hoffman - Japanese Death Poems\|Yoel Hoffman - Japanese Death Poems]]       | \-             | \-               | \-         |
 
 ### Non fiction
@@ -26,9 +31,9 @@ These are some topics that are of high interest to me at the moment.
 | ---------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------- | ---------- |
 | [[./Literature notes/Anderss Ericsson and Robert Pool - Peak\|Anderss Ericsson and Robert Pool - Peak]]         | April 18, 2024 | Anderss Ericsson and Robert Pool | true       |
 | [[./Literature notes/Miyamoto Musashi - 21 principles of Dokkodo\|Miyamoto Musashi - 21 principles of Dokkodo]] | April 09, 2024 | Miyamoto Musashi                 | true       |
-| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | Victor E Frankl                  | true       |
 | [[./Literature notes/Seneca - Letters from a Stoic\|Seneca - Letters from a Stoic]]                             | March 23, 2024 | Seneca                           | false      |
 | [[./Literature notes/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]                             | March 23, 2024 | Marcus Aurelius                  | true       |
+| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | Victor E Frankl                  | true       |
 | [[./Literature notes/Kate Murphy - You're Not Listening\|Kate Murphy - You're Not Listening]]                   | March 23, 2024 | Kate Murphy                      | false      |
 | [[./Literature notes/Helen Fisher - Why We Love\|Helen Fisher - Why We Love]]                                   | March 23, 2024 | Helen Fisher                     | false      |
 | [[./Literature notes/Mortimer J Adler - How to Read a Book\|Mortimer J Adler - How to Read a Book]]             | \-             | Mortimer J Adler                 | false      |
