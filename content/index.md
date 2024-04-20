@@ -10,34 +10,45 @@ Some inspiration for this site and where i hope it to get to in terms of design 
 - Andy Matuschak - notes.andymatuschak.org
 - Gwern - gwern.net
 - Azlen Elza - azlen.me
+- less wrong blog - Lesswrong.com
 # Top of mind
 These are some topics that are of high interest to me at the moment.
 - [[Javascript|Javascript]]
+- [[Web design|Web design]]
 - [[neovim|neovim]]
 - [[arch linux|arch linux]]
 - [[Josh digital garden|Josh digital garden]]
 # Navigation
-## Books
-### Fiction
+## Bookshelf
+My bookshelf contains notes from books where I've summarised its core ideas. It's where quotes and highlights I've taken from books are transformed into my own words and thoughts.
+| Title          | Author                                                | Cover                                                                                                                              | Rating | Comment                                   | Goodreads                                                          |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------- | ------------------------------------------------------------------ |
+| [[Peak\|Peak]] | <ul><li>Anders Ericsson</li><li>Robert Pool</li></ul> | ![coverImg\|100](https://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 8/10   | Book teaches about mental representations | [Goodreads](https://www.goodreads.com/search?qid=&q=9781847923196) |
+
+## Literature notes
+Literature notes are the highlights and quotes that are extracted from my e-ink reader (Kobo Libra 2 running KoReader). 
+### Books
+#### Fiction
 | Title                                                                                                  | Date imported  | Author           | Completed? |
 | ------------------------------------------------------------------------------------------------------ | -------------- | ---------------- | ---------- |
-| [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | Daniel Keyes     | false      |
 | [[./Literature notes/Ursla K Le Guin - The Dispossessed\|Ursla K Le Guin - The Dispossessed]]         | March 23, 2024 | Ursla K Le Guin  | true       |
 | [[./Literature notes/Ernest Hemingway - Old Man and the Sea\|Ernest Hemingway - Old Man and the Sea]] | March 23, 2024 | Ernest Hemingway | false      |
+| [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | Daniel Keyes     | false      |
 | [[./Literature notes/Yoel Hoffman - Japanese Death Poems\|Yoel Hoffman - Japanese Death Poems]]       | \-             | \-               | \-         |
 
-### Non fiction
+#### Non fiction
 | Title                                                                                                            | Date imported  | Author                           | Completed? |
 | ---------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------- | ---------- |
 | [[./Literature notes/Anderss Ericsson and Robert Pool - Peak\|Anderss Ericsson and Robert Pool - Peak]]         | April 18, 2024 | Anderss Ericsson and Robert Pool | true       |
 | [[./Literature notes/Miyamoto Musashi - 21 principles of Dokkodo\|Miyamoto Musashi - 21 principles of Dokkodo]] | April 09, 2024 | Miyamoto Musashi                 | true       |
+| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | Victor E Frankl                  | true       |
 | [[./Literature notes/Seneca - Letters from a Stoic\|Seneca - Letters from a Stoic]]                             | March 23, 2024 | Seneca                           | false      |
 | [[./Literature notes/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]                             | March 23, 2024 | Marcus Aurelius                  | true       |
-| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | Victor E Frankl                  | true       |
 | [[./Literature notes/Kate Murphy - You're Not Listening\|Kate Murphy - You're Not Listening]]                   | March 23, 2024 | Kate Murphy                      | false      |
 | [[./Literature notes/Helen Fisher - Why We Love\|Helen Fisher - Why We Love]]                                   | March 23, 2024 | Helen Fisher                     | false      |
 | [[./Literature notes/Mortimer J Adler - How to Read a Book\|Mortimer J Adler - How to Read a Book]]             | \-             | Mortimer J Adler                 | false      |
 | [[./Literature notes/James Clear - Atomic Habits\|James Clear - Atomic Habits]]                                 | \-             | \-                               | true       |
+
 
 ## Topics explored
 These are the topics
