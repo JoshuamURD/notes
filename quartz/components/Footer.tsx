@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-
+        <p>At journey's end, whispers weave memories into the silent land.</p>
       </footer>
     )
   }
