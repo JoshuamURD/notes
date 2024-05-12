@@ -1,0 +1,45 @@
+%% Begin Waypoint %%
+- **Essays**
+	- [[./Essays/Absurdism and normalised behaviour|Absurdism and normalised behaviour]]
+	- [[./Essays/Dealing with inherent suffering|Dealing with inherent suffering]]
+	- [[./Essays/Exercise and vaping|Exercise and vaping]]
+	- [[./Essays/How to get into dieting|How to get into dieting]]
+	- [[./Essays/Interpretations of stoicism|Interpretations of stoicism]]
+	- [[./Essays/Mental health|Mental health]]
+	- [[./Essays/Methods to happiness|Methods to happiness]]
+	- [[./Essays/Monitor how you spend time|Monitor how you spend time]]
+	- [[./Essays/Two minds|Two minds]]
+	- [[./Essays/We are what we focus our minds on|We are what we focus our minds on]]
+	- [[./Essays/What is absurdity|What is absurdity]]
+	- [[./Essays/Will and desire|Will and desire]]
+- **General**
+	- [[./General/brutalist web design|brutalist web design]]
+	- [[./General/Cognition|Cognition]]
+	- [[./General/Enlightenment is an unscrewing|Enlightenment is an unscrewing]]
+	- [[../../nextcloud password|nextcloud password]]
+	- [[./General/personal knowledge management|personal knowledge management]]
+	- [[./General/Philosophy|Philosophy]]
+	- [[./General/Wallpapers|Wallpapers]]
+	- [[./General/Zettlekasten produces output|Zettlekasten produces output]]
+- **Ideas**
+	- [[./Ideas/Book idea - hive mind|Book idea - hive mind]]
+	- [[./Ideas/Create a newsletter generator|Create a newsletter generator]]
+	- [[./Ideas/Humanist fonts|Humanist fonts]]
+	- [[./Ideas/Idea for obsidian templates|Idea for obsidian templates]]
+	- [[./Ideas/Is love something experienced by all consciousnesses|Is love something experienced by all consciousnesses]]
+	- [[./Ideas/Mark Manson - good book recommendation site|Mark Manson - good book recommendation site]]
+	- [[./Ideas/Side note javascript|Side note javascript]]
+	- [[./Ideas/tiddlywiki as a PKM|tiddlywiki as a PKM]]
+	- [[./Ideas/Walking and philosophy|Walking and philosophy]]
+- **People**
+	- [[../../Amanda Macmaster|Amanda Macmaster]]
+	- [[../../Jordan WJ|Jordan WJ]]
+	- [[../../Kirsty Firman|Kirsty Firman]]
+- **Quotes**
+	- [[./Quotes/Bojack Horseman - The truth is none of it matters|Bojack Horseman - The truth is none of it matters]]
+	- [[./Quotes/Jordan Peterson - clean up your space|Jordan Peterson - clean up your space]]
+	- [[./Quotes/Nicholas Taleb - What is a stoic|Nicholas Taleb - What is a stoic]]
+	- [[./Quotes/Peter Singer - Ethics in the real world - see your own littleness|Peter Singer - Ethics in the real world - see your own littleness]]
+	- [[./Quotes/Search for your mind|Search for your mind]]
+
+%% End Waypoint %%
