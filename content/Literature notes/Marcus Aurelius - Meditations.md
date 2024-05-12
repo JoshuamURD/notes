@@ -8,7 +8,7 @@ topics:
 themes:
   - "[[stoicism|stoicism]]"
 author: Marcus Aurelius
-complete: true
+complete: false
 date-completed: 2023-08-03
 thoughts-summary: 
 ---
