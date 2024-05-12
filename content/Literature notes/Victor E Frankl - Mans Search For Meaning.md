@@ -10,7 +10,7 @@ themes:
   - "[[existentialism|existentialism]]"
   - "[[logotherapy|logotherapy]]"
 author: Victor E Frankl
-complete: true
+complete: false
 date-completed: 2023-09-21
 thoughts-summary: 
 ---

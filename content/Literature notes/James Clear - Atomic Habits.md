@@ -8,7 +8,7 @@ themes:
   - "[[use systems not goals|use systems not goals]]"
   - "[[aggregation of marginal gains|aggregation of marginal gains]]"
   - "[[habits linked to identity|habits linked to identity]]"
-complete: true
+complete: false
 date-completed: 2022-10-12
 ---
 **Note:** took these notes from physical book
