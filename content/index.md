@@ -4,7 +4,7 @@ title: Dashboard
 aliases:
   - Dashboard
 cssclasses:
-  - cards.css
+  - cards
 ---
 # Purpose
 This is a digital garden. A digital garden is a place where knowledge accumulates. A place where one takes notes from various sources and distills them. Lets ideas grow like a plant would from a garden. Digital gardens have been growing in popularity in the indie internet for a good reason - they provide a way for knowledge to be better contextualised in other settings. 
@@ -15,11 +15,12 @@ It may be conceited to believe that anyone would read it, hell, if anyone would 
 We don't have much time on this world, so why not see and understand as much as we can. Try and open our minds up to various ideas and take in all that is out there. I hope that this digital garden, at its worst will be a place for me to develop my interests but at its best will inspire others to join in those interests and perhaps dive into it themselves.
 # Inspiration
 Some inspiration for this site and where i hope it to get to in terms of design and writing:
-- Andy Matuschak - [see here](notes.andymatuschak.org)
-- Gwern - [see here](gwern.net)
-- Azlen Elza - [see here](azlen.me)
-- less wrong blog - [see here](Lesswrong.com)
-- 100 rabbits - [see here](100r.co)
+- Andy Matuschak - [see here](https://notes.andymatuschak.org)
+- Gwern - [see here](https://gwern.net)
+- Azlen Elza - [see here](https://azlen.me)
+- less wrong blog - [see here](https://Lesswrong.com)
+- 100 rabbits - [see here](https://100r.co)
+- from jason- [see here](https://fromjason.xyz)
 # Design principles
 In its early stages, this website will primarily be a representation of notes of my interests but as it develops, I intent it to be a learning and academic resource. Some things I will adhere to:
 - Multiple jump in points - I want there to be multiple ways to jump into this website and learn something new. That's why there is a variety of ways to explore this site via tags, folders and maps of content. I hope that as the site grows, there will be others.
@@ -33,39 +34,56 @@ These are some topics that are of high interest to me at the moment.
 - [[Josh digital garden|Josh digital garden]]
 ## Bookshelf
 My bookshelf contains notes from books where I've summarised its core ideas. It's where quotes and highlights I've taken from books are transformed into my own words and thoughts.
-| Cover                                                                                                                             | Title                                                                                                         | author                                                | Total Pages | Status  |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------- | ------- |
-| ![coverImg\|100](http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Man's Search For Meaning - Viktor E Frankl\|Man's Search For Meaning - Viktor E Frankl]]     | <ul><li>Viktor E Frankl</li></ul>                     | 240         | read    |
-| ![coverImg\|100](http://books.google.com/books/content?id=2bNl0ZF25LgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Left Hand Of Darkness - Ursula K Le Guin\|The Left Hand Of Darkness - Ursula K Le Guin]] | <ul><li>Ursula K. Le Guin</li></ul>                   | 222         | read    |
-| ![coverImg\|100](http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Peak - Anders Ericsson, Robert Pool\|Peak - Anders Ericsson, Robert Pool]]                   | <ul><li>Anders Ericsson</li><li>Robert Pool</li></ul> | 338         | read    |
-| ![coverImg\|100](http://books.google.com/books/content?id=VVsmU-4YwFsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Meditations - Aurelius Marcus\|Meditations - Aurelius Marcus]]                               | <ul><li>Aurelius Marcus</li></ul>                     | 228         | read    |
-| ![coverImg\|100](http://books.google.com/books/content?id=ZrsVZKWJg4UC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Handmaid's Tale - Margaret Atwood\|The Handmaid's Tale - Margaret Atwood]]               | <ul><li>Margaret Atwood</li></ul>                     | 325         | reading |
 
+> [!NOTE]- Bookshelf
+>  | Cover                                                                                                                             | Title                                                                                                                                                                                                 | author                                                                     | Total Pages | Status  |
+> | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- | ------- |
+> | ![coverImg\|100](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/On Writing - Stephen King\|On Writing - Stephen King]]                                                                                                                               | <ul><li>Stephen King</li></ul>                                             | \-          | reading |
+> | ![coverImg\|100](http://books.google.com/books/content?id=8zYkLsMxSgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Sailor who Fell from Grace with the Sea - Yukio Mishima\|The Sailor who Fell from Grace with the Sea - Yukio Mishima]]                                                           | <ul><li>Yukio Mishima</li></ul>                                            | 144         | reading |
+> | ![coverImg\|100](http://books.google.com/books/content?id=-vufzEKGm1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/A Pale View of Hills - Kazuo Ishiguro\|A Pale View of Hills - Kazuo Ishiguro]]                                                                                                       | <ul><li>Kazuo Ishiguro</li></ul>                                           | 175         | reading |
+> | ![coverImg\|100](http://books.google.com/books/content?id=2bNl0ZF25LgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Left Hand Of Darkness - Ursula K Le Guin\|The Left Hand Of Darkness - Ursula K Le Guin]]                                                                                         | <ul><li>Ursula K. Le Guin</li></ul>                                        | 222         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Man's Search For Meaning - Viktor E Frankl\|Man's Search For Meaning - Viktor E Frankl]]                                                                                             | <ul><li>Viktor E Frankl</li></ul>                                          | 240         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Peak - Anders Ericsson, Robert Pool\|Peak - Anders Ericsson, Robert Pool]]                                                                                                           | <ul><li>Anders Ericsson</li><li>Robert Pool</li></ul>                      | 338         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=VVsmU-4YwFsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Meditations - Aurelius Marcus\|Meditations - Aurelius Marcus]]                                                                                                                       | <ul><li>Aurelius Marcus</li></ul>                                          | 228         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=ZrsVZKWJg4UC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Handmaid's Tale - Margaret Atwood\|The Handmaid's Tale - Margaret Atwood]]                                                                                                       | <ul><li>Margaret Atwood</li></ul>                                          | 325         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=M45vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Dispossessed - Ursula K Le Guin\|The Dispossessed - Ursula K Le Guin]]                                                                                                           | <ul><li>Ursula K. Le Guin</li></ul>                                        | 0           | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=I12oPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/Dune - Frank Herbert\|Dune - Frank Herbert]]                                                                                                                                         | <ul><li>Frank Herbert</li></ul>                                            | 577         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/Atomic Habits - James Clear\|Atomic Habits - James Clear]]                                                                                                                           | <ul><li>James Clear</li></ul>                                              | 321         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=I1cfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/Frankenstein Or The Modern Prometheus - Mary Wollstonecraft Shelley Percy Bysshe Shelley\|Frankenstein Or The Modern Prometheus - Mary Wollstonecraft Shelley Percy Bysshe Shelley]] | <ul><li>Mary Wollstonecraft Shelley</li><li>Percy Bysshe Shelley</li></ul> | 456         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=_oG_iTxP1pIC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/Flowers for Algernon - Daniel Keyes\|Flowers for Algernon - Daniel Keyes]]                                                                                                           | <ul><li>Daniel Keyes</li></ul>                                             | 321         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=mYKhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Stars My Destination - Alfred Bester\|The Stars My Destination - Alfred Bester]]                                                                                                 | <ul><li>Alfred Bester</li></ul>                                            | 244         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/1984 - George Orwell\|1984 - George Orwell]]                                                                                                                                         | <ul><li>George Orwell</li></ul>                                            | 309         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=zsF8xwh6N_MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Animal Farm - George Orwell\|Animal Farm - George Orwell]]                                                                                                                           | <ul><li>George Orwell</li></ul>                                            | 105         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=zaPoAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Myth of Sisyphus - Albert Camus\|The Myth of Sisyphus - Albert Camus]]                                                                                                           | <ul><li>Albert Camus</li></ul>                                             | 211         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=Ug0uAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/Beyond Good and Evil - Friedrich Wilhelm Nietzsche\|Beyond Good and Evil - Friedrich Wilhelm Nietzsche]]                                                                             | <ul><li>Friedrich Wilhelm Nietzsche</li></ul>                              | 294         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=nYFXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Importance of Being Earnest - Oscar Wilde\|The Importance of Being Earnest - Oscar Wilde]]                                                                                       | <ul><li>Oscar Wilde</li></ul>                                              | 86          | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=7qylv1KYf0kC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Stranger - Albert Camus\|The Stranger - Albert Camus]]                                                                                                                           | <ul><li>Albert Camus</li></ul>                                             | 144         | read    |
+> 
 
 ---
 ## Literature notes
 Literature notes are the highlights and quotes that are extracted from my e-ink reader (Kobo Libra 2 running KoReader). When I highlight passages in a book, I highlight them because I want to remember some of that content or they seem important at the time. I don't always then use the ideas that I've highlighted in my book notes. A passage that seemed significant may not be upon rereading. When I've made a book note out of the literature notes, I mark it completed as indicated in the tables below:
 ### Book notes
 #### Fiction
-| Title                                                                                                  | Date imported  | Author           | Completed? |
-| ------------------------------------------------------------------------------------------------------ | -------------- | ---------------- | ---------- |
-| [[./Literature notes/Ursla K Le Guin - The Dispossessed\|Ursla K Le Guin - The Dispossessed]]         | March 23, 2024 | Ursla K Le Guin  | false      |
-| [[./Literature notes/Ernest Hemingway - Old Man and the Sea\|Ernest Hemingway - Old Man and the Sea]] | March 23, 2024 | Ernest Hemingway | false      |
-| [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | Daniel Keyes     | false      |
-| [[./Literature notes/Yoel Hoffman - Japanese Death Poems\|Yoel Hoffman - Japanese Death Poems]]       | \-             | \-               | false      |
+| Title                                                                                                  | Date imported  | Author                             |
+| ------------------------------------------------------------------------------------------------------ | -------------- | ---------------------------------- |
+| [[./Literature notes/Ursla K Le Guin - The Dispossessed\|Ursla K Le Guin - The Dispossessed]]         | March 23, 2024 | <ul><li>Ursla K Le Guin</li></ul>  |
+| [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | <ul><li>Daniel Keyes</li></ul>     |
+| [[./Literature notes/Ernest Hemingway - Old Man and the Sea\|Ernest Hemingway - Old Man and the Sea]] | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul> |
+| [[./Literature notes/Yoel Hoffman - Japanese Death Poems\|Yoel Hoffman - Japanese Death Poems]]       | \-             | \-                                 |
 
 #### Non fiction
-| Title                                                                                                            | Date imported  | Author                           | Completed? |
-| ---------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------- | ---------- |
-| [[./Literature notes/Anderss Ericsson and Robert Pool - Peak\|Anderss Ericsson and Robert Pool - Peak]]         | April 18, 2024 | Anderss Ericsson and Robert Pool | true       |
-| [[./Literature notes/Miyamoto Musashi - 21 principles of Dokkodo\|Miyamoto Musashi - 21 principles of Dokkodo]] | April 09, 2024 | Miyamoto Musashi                 | false      |
-| [[./Literature notes/Seneca - Letters from a Stoic\|Seneca - Letters from a Stoic]]                             | March 23, 2024 | Seneca                           | false      |
-| [[./Literature notes/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]                             | March 23, 2024 | Marcus Aurelius                  | false      |
-| [[./Literature notes/Kate Murphy - You're Not Listening\|Kate Murphy - You're Not Listening]]                   | March 23, 2024 | Kate Murphy                      | false      |
-| [[./Literature notes/Helen Fisher - Why We Love\|Helen Fisher - Why We Love]]                                   | March 23, 2024 | Helen Fisher                     | false      |
-| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | Victor E Frankl                  | false      |
-| [[./Literature notes/Mortimer J Adler - How to Read a Book\|Mortimer J Adler - How to Read a Book]]             | \-             | Mortimer J Adler                 | false      |
-| [[./Literature notes/James Clear - Atomic Habits\|James Clear - Atomic Habits]]                                 | \-             | \-                               | false      |
+| Title                                                                                                            | Date imported  | Author                                             |
+| ---------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------- |
+| [[./Literature notes/Anderss Ericsson and Robert Pool - Peak\|Anderss Ericsson and Robert Pool - Peak]]         | April 18, 2024 | <ul><li>Anderss Ericsson and Robert Pool</li></ul> |
+| [[./Literature notes/Miyamoto Musashi - 21 principles of Dokkodo\|Miyamoto Musashi - 21 principles of Dokkodo]] | April 09, 2024 | <ul><li>Miyamoto Musashi</li></ul>                 |
+| [[./Literature notes/Seneca - Letters from a Stoic\|Seneca - Letters from a Stoic]]                             | March 23, 2024 | <ul><li>Seneca</li></ul>                           |
+| [[./Literature notes/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]                             | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |
+| [[./Literature notes/Helen Fisher - Why We Love\|Helen Fisher - Why We Love]]                                   | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |
+| [[./Literature notes/Kate Murphy - You're Not Listening\|Kate Murphy - You're Not Listening]]                   | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |
+| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |
+| [[./Literature notes/James Clear - Atomic Habits\|James Clear - Atomic Habits]]                                 | \-             | \-                                                 |
+| [[./Literature notes/Mortimer J Adler - How to Read a Book\|Mortimer J Adler - How to Read a Book]]             | \-             | <ul><li>Mortimer J Adler</li></ul>                 |
 
 
 
@@ -79,7 +97,7 @@ These are the topics and themes which I have explored in my learning or writing.
 | [[Anarchy\|Anarchy]]                                                              | 1        |
 | [[arch linux\|arch linux]]                                                        | 1        |
 | [[./Areas/General/Cognition\|Cognition]]                                         | 1        |
-| [[./Areas/General/Learning\|Learning]]                                           | 9        |
+| [[./Areas/General/Learning\|Learning]]                                           | 8        |
 | [[./Areas/General/logotherapy\|logotherapy]]                                     | 1        |
 | [[./Areas/General/personal knowledge management\|personal knowledge management]] | 2        |
 | [[./Areas/General/Philosophy\|Philosophy]]                                       | 19       |
