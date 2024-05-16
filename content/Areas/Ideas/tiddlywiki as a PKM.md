@@ -11,7 +11,7 @@ topics:
 themes: 
 ---
 
-- [ ] tiddlywiki as pkm? [[Josh digital garden|Josh digital garden]]
+- [x] tiddlywiki as pkm? [[Josh digital garden|Josh digital garden]] [completion:: 2024-05-13]
 
 Look at some tiddylwiki to use
 - tzk 

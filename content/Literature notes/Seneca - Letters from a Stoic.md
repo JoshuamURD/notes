@@ -7,9 +7,8 @@ topics:
   - "[[Philosophy|Philosophy]]"
 themes:
   - "[[stoicism|stoicism]]"
-author: Seneca
-complete: false
-date-completed: 
+author:
+  - Seneca
 thoughts-summary: 
 ---
 

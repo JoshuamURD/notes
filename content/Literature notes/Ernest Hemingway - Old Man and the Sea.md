@@ -7,9 +7,8 @@ topics:
   - "[[patience|patience]]"
   - "[[perseverance|perseverance]]"
 themes: 
-author: Ernest Hemingway
-complete: false
-date-completed: 
+author:
+  - Ernest Hemingway
 thoughts-summary: 
 ---
 

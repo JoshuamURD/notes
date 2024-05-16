@@ -8,9 +8,8 @@ topics:
   - "[[Social science|Social science]]"
 themes:
   - "[[Love|Love]]"
-author: Helen Fisher
-complete: false
-date-completed: 
+author:
+  - Helen Fisher
 thoughts-summary: Interesting dive into the psychology and brain chemistry for why we love in the first place beyond the obvious "so we can mate"
 ---
 

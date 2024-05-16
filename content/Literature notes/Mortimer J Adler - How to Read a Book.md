@@ -6,9 +6,8 @@ topics:
   - "[[Reading|Reading]]"
 themes:
   - "[[note taking|note taking]]"
-author: Mortimer J Adler
-complete: false
-date-completed: 
+author:
+  - Mortimer J Adler
 thoughts-summary: 
 ---
 

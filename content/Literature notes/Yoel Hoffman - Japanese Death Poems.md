@@ -7,7 +7,6 @@ topics:
 themes:
   - "[[haikus|haikus]]"
   - "[[Tanka|Tanka]]"
-complete: false
 ---
 **Note:** Notes taken from hard-copy book
 

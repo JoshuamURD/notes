@@ -7,9 +7,8 @@ topics:
   - "[[science fiction|science fiction]]"
 themes:
   - "[[social commentary|social commentary]]"
-author: Daniel Keyes
-complete: false
-date-completed: 2023-12-10
+author:
+  - Daniel Keyes
 thoughts-summary: 
 ---
 
