@@ -5,9 +5,8 @@ tags:
 topics:
   - "[[Philosophy|Philosophy]]"
 themes: 
-author: Miyamoto Musashi
-complete: false
-date-completed: 2024-04-09
+author:
+  - Miyamoto Musashi
 thoughts-summary: 
 ---
 
