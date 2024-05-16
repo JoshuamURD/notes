@@ -9,11 +9,16 @@ themes:
   - "[[Deliberate practice|Deliberate practice]]"
   - "[[mental representations|mental representations]]"
   - "[[Purposeful practice|Purposeful practice]]"
-author: Anderss Ericsson and Robert Pool
-complete: true
-date-completed: 2024-04-18
+author:
+  - Anderss Ericsson and Robert Pool
 thoughts-summary: Book explains how the brain works with mental representations. Purposeful practice and deliberate practice can be used to increase effectiveness of mental representations for better processing of complex information
 ---
+
+# Linking notes
+- [[../Areas/Books/Peak - Anders Ericsson, Robert Pool|Peak - Anders Ericsson, Robert Pool]]: #book made on \-
+- [[../../2024-04-18|2024-04-18]]: #Journal made on April 18, 2024
+
+# Notes
 # Peak
 ##### Anders Ericsson
 
