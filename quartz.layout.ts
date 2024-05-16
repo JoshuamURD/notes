@@ -6,28 +6,27 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   footer: Component.Footer({
-    links: {
-    },
+    links: {},
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.Darkmode(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList()
+    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 5 })),
   ],
   right: [
-    Component.Darkmode(),
-    Component.RecentNotes({ title: "Recent writing" }),
+    Component.Explorer(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
