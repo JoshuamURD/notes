@@ -1,5 +1,6 @@
 ---
-author: Alan Watts
+author:
+  - Alan Watts
 references: 
 topics:
   - "[[Taoism|Taoism]]"
@@ -7,7 +8,6 @@ topics:
 themes:
   - "[[self-improvement|self-improvement]]"
   - "[[virtue|virtue]]"
-complete: true
 tags:
   - literature-note/video
 ---
