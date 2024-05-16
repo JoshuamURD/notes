@@ -7,9 +7,8 @@ topics:
   - "[[Listening|Listening]]"
   - "[[Empathy|Empathy]]"
 themes: 
-author: Kate Murphy
-complete: false
-date-completed: 2024-03-23
+author:
+  - Kate Murphy
 thoughts-summary: I need to read this again as I never finished it and she had some really interesting ideas from being a journalist her whole life how she got people to open up.
 ---
 
