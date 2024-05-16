@@ -38,7 +38,6 @@ My bookshelf contains notes from books where I've summarised its core ideas. It'
 > [!NOTE]- Bookshelf
 >  | Cover                                                                                                                             | Title                                                                                                                                                                                                 | author                                                                     | Total Pages | Status  |
 > | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- | ------- |
-> | ![coverImg\|100](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/On Writing - Stephen King\|On Writing - Stephen King]]                                                                                                                               | <ul><li>Stephen King</li></ul>                                             | \-          | reading |
 > | ![coverImg\|100](http://books.google.com/books/content?id=8zYkLsMxSgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Sailor who Fell from Grace with the Sea - Yukio Mishima\|The Sailor who Fell from Grace with the Sea - Yukio Mishima]]                                                           | <ul><li>Yukio Mishima</li></ul>                                            | 144         | reading |
 > | ![coverImg\|100](http://books.google.com/books/content?id=-vufzEKGm1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/A Pale View of Hills - Kazuo Ishiguro\|A Pale View of Hills - Kazuo Ishiguro]]                                                                                                       | <ul><li>Kazuo Ishiguro</li></ul>                                           | 175         | reading |
 > | ![coverImg\|100](http://books.google.com/books/content?id=2bNl0ZF25LgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Left Hand Of Darkness - Ursula K Le Guin\|The Left Hand Of Darkness - Ursula K Le Guin]]                                                                                         | <ul><li>Ursula K. Le Guin</li></ul>                                        | 222         | read    |
@@ -54,6 +53,7 @@ My bookshelf contains notes from books where I've summarised its core ideas. It'
 > | ![coverImg\|100](http://books.google.com/books/content?id=mYKhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Stars My Destination - Alfred Bester\|The Stars My Destination - Alfred Bester]]                                                                                                 | <ul><li>Alfred Bester</li></ul>                                            | 244         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/1984 - George Orwell\|1984 - George Orwell]]                                                                                                                                         | <ul><li>George Orwell</li></ul>                                            | 309         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=zsF8xwh6N_MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Animal Farm - George Orwell\|Animal Farm - George Orwell]]                                                                                                                           | <ul><li>George Orwell</li></ul>                                            | 105         | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/On Writing - Stephen King\|On Writing - Stephen King]]                                                                                                                               | <ul><li>Stephen King</li></ul>                                             | 108         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=zaPoAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Myth of Sisyphus - Albert Camus\|The Myth of Sisyphus - Albert Camus]]                                                                                                           | <ul><li>Albert Camus</li></ul>                                             | 211         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=Ug0uAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/Beyond Good and Evil - Friedrich Wilhelm Nietzsche\|Beyond Good and Evil - Friedrich Wilhelm Nietzsche]]                                                                             | <ul><li>Friedrich Wilhelm Nietzsche</li></ul>                              | 294         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=nYFXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Importance of Being Earnest - Oscar Wilde\|The Importance of Being Earnest - Oscar Wilde]]                                                                                       | <ul><li>Oscar Wilde</li></ul>                                              | 86          | read    |
@@ -67,23 +67,24 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 #### Fiction
 | Title                                                                                                  | Date imported  | Author                             |
 | ------------------------------------------------------------------------------------------------------ | -------------- | ---------------------------------- |
-| [[./Literature notes/Ursla K Le Guin - The Dispossessed\|Ursla K Le Guin - The Dispossessed]]         | March 23, 2024 | <ul><li>Ursla K Le Guin</li></ul>  |
 | [[./Literature notes/Daniel Keyes - Flowers for Algernon\|Daniel Keyes - Flowers for Algernon]]       | March 23, 2024 | <ul><li>Daniel Keyes</li></ul>     |
+| [[./Literature notes/Ursla K Le Guin - The Dispossessed\|Ursla K Le Guin - The Dispossessed]]         | March 23, 2024 | <ul><li>Ursla K Le Guin</li></ul>  |
 | [[./Literature notes/Ernest Hemingway - Old Man and the Sea\|Ernest Hemingway - Old Man and the Sea]] | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul> |
 | [[./Literature notes/Yoel Hoffman - Japanese Death Poems\|Yoel Hoffman - Japanese Death Poems]]       | \-             | \-                                 |
 
 #### Non fiction
-| Title                                                                                                            | Date imported  | Author                                             |
-| ---------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------- |
-| [[./Literature notes/Anderss Ericsson and Robert Pool - Peak\|Anderss Ericsson and Robert Pool - Peak]]         | April 18, 2024 | <ul><li>Anderss Ericsson and Robert Pool</li></ul> |
-| [[./Literature notes/Miyamoto Musashi - 21 principles of Dokkodo\|Miyamoto Musashi - 21 principles of Dokkodo]] | April 09, 2024 | <ul><li>Miyamoto Musashi</li></ul>                 |
-| [[./Literature notes/Seneca - Letters from a Stoic\|Seneca - Letters from a Stoic]]                             | March 23, 2024 | <ul><li>Seneca</li></ul>                           |
-| [[./Literature notes/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]                             | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |
-| [[./Literature notes/Helen Fisher - Why We Love\|Helen Fisher - Why We Love]]                                   | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |
-| [[./Literature notes/Kate Murphy - You're Not Listening\|Kate Murphy - You're Not Listening]]                   | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |
-| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]     | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |
-| [[./Literature notes/James Clear - Atomic Habits\|James Clear - Atomic Habits]]                                 | \-             | \-                                                 |
-| [[./Literature notes/Mortimer J Adler - How to Read a Book\|Mortimer J Adler - How to Read a Book]]             | \-             | <ul><li>Mortimer J Adler</li></ul>                 |
+| Title                                                                                                                    | Date imported  | Author                                             |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------------- |
+| [[./Literature notes/Stephen King - On Writing A Memoir of the Craft\|Stephen King - On Writing A Memoir of the Craft]] | May 16, 2024   | <ul><li>Stephen King</li></ul>                     |
+| [[./Literature notes/Anderss Ericsson and Robert Pool - Peak\|Anderss Ericsson and Robert Pool - Peak]]                 | April 18, 2024 | <ul><li>Anderss Ericsson and Robert Pool</li></ul> |
+| [[./Literature notes/Miyamoto Musashi - 21 principles of Dokkodo\|Miyamoto Musashi - 21 principles of Dokkodo]]         | April 09, 2024 | <ul><li>Miyamoto Musashi</li></ul>                 |
+| [[./Literature notes/Seneca - Letters from a Stoic\|Seneca - Letters from a Stoic]]                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |
+| [[./Literature notes/Marcus Aurelius - Meditations\|Marcus Aurelius - Meditations]]                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |
+| [[./Literature notes/Victor E Frankl - Mans Search For Meaning\|Victor E Frankl - Mans Search For Meaning]]             | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |
+| [[./Literature notes/Kate Murphy - You're Not Listening\|Kate Murphy - You're Not Listening]]                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |
+| [[./Literature notes/Helen Fisher - Why We Love\|Helen Fisher - Why We Love]]                                           | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |
+| [[./Literature notes/Mortimer J Adler - How to Read a Book\|Mortimer J Adler - How to Read a Book]]                     | \-             | <ul><li>Mortimer J Adler</li></ul>                 |
+| [[./Literature notes/James Clear - Atomic Habits\|James Clear - Atomic Habits]]                                         | \-             | \-                                                 |
 
 
 
@@ -134,7 +135,7 @@ These are the topics and themes which I have explored in my learning or writing.
 | [[Templater\|Templater]]                                                          | 1        |
 | [[Vaping\|Vaping]]                                                                | 1        |
 | [[Web design\|Web design]]                                                        | 3        |
-| [[Writing\|Writing]]                                                              | 2        |
+| [[Writing\|Writing]]                                                              | 3        |
 | [[zettlekasten\|zettlekasten]]                                                    | 1        |
 
 ## Themes
