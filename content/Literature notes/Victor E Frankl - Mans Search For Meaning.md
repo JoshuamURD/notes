@@ -9,12 +9,16 @@ topics:
 themes:
   - "[[existentialism|existentialism]]"
   - "[[logotherapy|logotherapy]]"
-author: Victor E Frankl
-complete: false
-date-completed: 2023-09-21
+author:
+  - Victor E Frankl
 thoughts-summary: 
 ---
 
+# Linking notes
+- [[../Areas/General/Attitude is a fortress within the mind|Attitude is a fortress within the mind]]: #atomic made on May 12, 2024
+- [[../Areas/General/a person can live with any how if they have a why|a person can live with any how if they have a why]]: #atomic made on May 12, 2024
+
+# Notes
 LET US FIRST ASK OURSELVES WHAT SHOULD be understood by “a tragic optimism.” In brief it means that one is, and remains, optimistic in spite of the “tragic triad,” as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death
 
 Logotherapy focuses rather on the future, that is to say, on the meanings to be fulfilled by the patient in his future. (Logotherapy, indeed, is a meaning-centered psychotherapy.)
