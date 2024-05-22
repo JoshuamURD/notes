@@ -1,5 +1,5 @@
 ---
-authors: James Clear
+author: James Clear
 tags:
   - literature-note/non-fiction
 topics:
