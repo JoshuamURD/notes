@@ -12,9 +12,10 @@ publish: 2010-01-26
 total: 144
 isbn: 1407054112 9781407054117
 cover: http://books.google.com/books/content?id=8zYkLsMxSgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-status: reading
+status: read
 created: 2024-05-13 12:58:15
 updated: 2024-05-13 12:58:15
+date-completed: 2024-05-17
 ---
 
 ![cover|150](http://books.google.com/books/content?id=8zYkLsMxSgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
