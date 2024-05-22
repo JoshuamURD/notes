@@ -15,6 +15,7 @@ isbn: 1627152849 9781627152846
 cover: http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 status: read
 created: 2024-05-12 19:03:34
+date-completed: 2024-05-16
 ---
 
 ![cover|150](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
