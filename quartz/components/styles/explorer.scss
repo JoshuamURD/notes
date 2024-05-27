@@ -54,7 +54,7 @@ button#explorer {
   }
 
   & ul {
-    list-style: none;
+    list-style: decimal;
     margin: 0.08rem 0;
     padding: 0;
     transition:
@@ -63,7 +63,6 @@ button#explorer {
       opacity 0.2s ease;
     & li > a {
       color: var(--dark);
-      text-decoration: underline;
       opacity: 0.75;
       pointer-events: all;
     }

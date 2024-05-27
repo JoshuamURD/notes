@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Files",
+      title: "Explore files...",
     },
     footer: {
       createdWith: "Created with",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "what are you looking for?...",
     },
     tableOfContents: {
-      title: "ToC",
+      title: "Contents",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `This'll take about ${minutes} min to read`,
@@ -64,7 +64,8 @@ export default {
     },
     error: {
       title: "Oops, this isn't here yet!",
-      notFound: "I've probably not yet created a page for this or I've deemed its content to private to be made public.",
+      notFound:
+        "I've probably not yet created a page for this or I've deemed its content to private to be made public.",
     },
     folderContent: {
       folder: "Folder",
