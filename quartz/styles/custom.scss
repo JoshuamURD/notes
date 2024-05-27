@@ -1,3 +1,38 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+h1 + p:nth-of-type(2)::first-letter {
+  color: red;
+}
+// center headings
+h1,
+.content-meta,
+.tags {
+  text-align: center;
+}
+// center images (for book notes)
+p > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+// decorate headings
+h1 {
+  border-bottom: 0.5px solid #05386b;
+}
+.center p {
+  text-align: justify;
+}
+.recent-notes h3 {
+  font-size: 1rem;
+}
+.recent-notes > h3 {
+  font-size: 1.5rem;
+}
+
+.recent-notes a:hover,
+.center a:hover {
+  font-size: 20px;
+  transition: font-size 0.5s ease-out;
+}
