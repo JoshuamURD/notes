@@ -5,7 +5,7 @@
   font-family: drop;
   src: url("static/CamelotCaps.ttf");
 }
-div.center article > p:first-of-type(1):first-letter,
+// Dropcaps
 div.center article h1:nth-of-type(1) + p::first-letter,
 div.center article h2:nth-of-type(1) + p::first-letter {
   float: left;
@@ -118,7 +118,6 @@ div.center h1 {
 }
 div.center h2 {
   font-family: "sub-heading";
-  transform: rotate(1deg);
 }
 // graph animation
 div.graph h3 {
@@ -164,4 +163,8 @@ h1.article-title:hover {
 div.darkmode {
   animation: bounce 1s ease;
   animation-delay: 3s;
+}
+
+div.center a:visited {
+  background-color: #fff;
 }
