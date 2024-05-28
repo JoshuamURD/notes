@@ -5,8 +5,9 @@
   font-family: drop;
   src: url("static/CamelotCaps.ttf");
 }
-
-article.popover-hint > h2.purpose + p:first-of-type::first-letter {
+div.center article > p:first-of-type(1):first-letter,
+div.center article h1:nth-of-type(1) + p::first-letter,
+div.center article h2:nth-of-type(1) + p::first-letter {
   float: left;
   line-height: 85%;
   width: 0.2em;

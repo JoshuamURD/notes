@@ -54,7 +54,7 @@ export default {
       title: "Contents",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `This'll take about ${minutes} min to read`,
+      readingTime: ({ minutes }) => `Will cost ${minutes} minutes of your life`,
     },
   },
   pages: {
