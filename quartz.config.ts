@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🔗 Two minded",
+    pageTitle: "🔗 In Two Minds",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
