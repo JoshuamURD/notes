@@ -6,7 +6,8 @@
   src: url("static/CamelotCaps.ttf");
 }
 
-article.popover-hint h1:nth-of-type(1) + p::first-letter {
+article.popover-hint > h1:first-of-type + p:first-of-type::first-letter,
+article.popover-hint > h2:first-of-type + p:first-of-type::first-letter {
   float: left;
   line-height: 85%;
   width: 0.2em;
