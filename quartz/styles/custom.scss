@@ -101,10 +101,10 @@ tr:hover,
 td:hover {
   background-color: #cccccc;
 }
-
+// setting heading font
 @font-face {
   font-family: headings;
-  src: url("static/Fontspring-DEMO-juana-regular.otf");
+  src: url("static/Oranienbaum.ttf");
 }
 div.center h1 {
   font-family: "headings";
@@ -112,4 +112,13 @@ div.center h1 {
 }
 h1.page-title {
   font-family: "headings";
+  color: black;
+}
+// setting subheading font
+@font-face {
+  font-family: sub-heading;
+  src: url("static/Biko_Regular.otf");
+}
+div.center h2 {
+  font-family: "sub-heading";
 }
