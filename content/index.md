@@ -7,7 +7,7 @@ cssclasses:
   - cards
 ---
 
-![[../Attachments/eCIKJ9ES.jpg|eCIKJ9ES.jpg]]
+![[./Attachments/eCIKJ9ES.jpg|eCIKJ9ES.jpg]]
 # Meta
 ## Purpose
 Two minds. is a combination of many things. It incorporates principles from blogs, digital gardens and second brains. [^1]
