@@ -7,15 +7,15 @@ cssclasses:
   - cards
 ---
 
-![[./Attachments/eCIKJ9ES.jpg|eCIKJ9ES.jpg]]
+![[./Attachments/eCIKJ9ES.jpg| 600]]
 # Meta
 ## Purpose
-Two minds. is a combination of many things. It incorporates principles from blogs, digital gardens and second brains. [^1]
-In this vault, I will not only use the digital garden as a medium to practice my writing, I'll be using it to develop my [[./Areas/General/mental representations|mental representations]] of different topics I learn from literature, videos and podcasts. Not all of these notes will be complete. That is the nature of digital gardens. Notes are draft format. Some of the notes will become very polished which is what most digital gardeners call an "evergreen" note. However, these notes are going to be far and in between at this stage. This is because first I need to accumulate quite a bit of literature to rely on before I start consolidating into a longform article.
+In Two Minds represents an attempt at converging principles from many ideas. It incorporates principles from blogs, digital gardens and second brains. [^1] It's a place for me to express my writing and for me to follow my interests in a public space.
+In this vault, I will use the digital garden as a medium to practice my writing and I'll be using it to develop my [[./Areas/General/mental representations|mental representations]] of different topics I learn from literature, videos and podcasts. Not all of these notes will be complete (or publicly available). That is the nature of digital gardens. Notes are written in draft format but are nonetheless shared. Some of the notes will become very polished and can stand up on their own as well researched articles which is what most digital gardeners call an "evergreen" note. However, these notes are going to be far and in between at this stage. This is because first I need to accumulate quite a bit of literature to rely on before I start consolidating.
 
-My hope is that as I get better at web development - and accumulate ideas and references - that I will inspire others. That I will spark creativity or interest in a topic that can be delved into deeper - all the resources will be right here! I believe that we live in an opportune time for learning and developing our own interests. We live in one of the most highly educated times of modern civilisation. To top it all off, we live in a time where we have the resources to learn about whatever our heart's desire thanks to the internet. There are thousands of free resources and cheap books with plentiful knowledge out there for all kinds of interests. The problem is that with all these developments of technology, also comes distraction. The same tools that have given us the freedom to learn and acquire knowledge are also the things which distract us. 
+My hope is that as I get better at web development - and accumulate ideas and references - that I will inspire others to begin their own self-learning journey. I hope that I will spark creativity or interest in a topic that can feed curiosity - all the resources will be right here! I believe that we live in an opportune time for learning and developing our own interests. May are fortunate to have access to all the learning resources they need to develop their abilities in any area. Never before has there been greater access to the internet. There are thousands of free resources and cheap books with knowledge abounds out there for all kinds of interests. The problem is that with all these developments of technology, also comes distraction. The same tools that have given us the freedom to learn and acquire knowledge are also the things which distract us. 
 
-We don't have much time on this world, so why not see and understand as much as we can. Try and open our minds up to various ideas and take in all that is out there. I hope that this digital garden, at its worst will be a place for me to develop my interests but at its best will inspire others to join in those interests and perhaps dive into it themselves.
+So, I say, why not see and understand as much as we can. Try and open our minds up to various ideas and take in all that is out there. I hope that this digital garden, at its worst will be a place for me to develop my interests but at its best will inspire others to join in those interests and perhaps dive into it themselves.
 ## Inspiration
 Some inspiration for this site and where i hope it to get to in terms of design and writing:
 - Andy Matuschak - [see here](https://notes.andymatuschak.org)
@@ -27,20 +27,19 @@ Some inspiration for this site and where i hope it to get to in terms of design 
 - bager Bach- [See here](https://bagerbach.com)
 ## Design principles
 In its early stages, this website will primarily be a representation of notes of my interests but as it develops, I intent it to be a learning and academic resource. Some things I will adhere to:
-- **Multiple jump in points** - I want there to be multiple ways to jump into this website and learn something new. That's why there is a variety of ways to explore this site via tags, folders and maps of content. I hope that as the site grows, there will be others.
+- **Multiple jump in points** - I want there to be multiple ways to jump into this website and learn something new. That's why there is a variety of ways to explore this site via tags, folders and maps of content. I hope that as the site grows, there will be others.[^3]
 - **Exportability** - I want to implement ways of exporting the data from this website as pdf's, emailing newsletters on updates and other ways of taking the information into the reader's own hands. I don't want to lock any of the information from this site onto the site. I believe knowledge should be for everyone and should be as transportable and portable as possible.
 - **Notes that grow** - I want topics to grow and for their references to grow. Once a topic becomes well connected enough, I will write an overarching breakdown of it. This will mean that notes will have a bottom up approach hierarchy. Notes will be able to stand on their own as atomic notes. They will be appropriately linked to topics they are relevant to (and themes which are less relevant or siblings). 
-- **A place to put what I want to remember** - 
+- **A place to put what I want to remember** - The way I integrate these notes in the system already includes many techniques which reinforce learning. I am constantly revisiting, rediscovering and refactoring what I learn so that I am forced to view the information in many different contexts. 
 
----
 # Top of mind
-Top of mind topics are ones which I am actively focusing my attention on at the moment. 
+A topic which is "top of mind" is one which I am currently looking into actively. They're the ones that I want to see expand the most right now and are likely to change. 
 - [[Web design|Web design]]
 	- [[Javascript|Javascript]]
 	- [[./Areas/General/CSS|CSS]]
 - [[Josh digital garden|Josh digital garden]]
 ## Bookshelf
-My bookshelf contains notes from books where I've summarised its core ideas. It's where quotes and highlights I've taken from books are transformed into my own words and thoughts.
+My bookshelf is where you can see what I'm currently reading and what I've finished. When I finish a book, I try to write a summary of its core ideas. Each book note will link to any literature notes which contain highlights. If any atomic notes or quotes have been saved from those literature notes, they can be seen in the book notes.[^2]
 
 > [!NOTE]- Bookshelf
 >  | Cover                                                                                                                             | Title                                                                                                                                                                                                 | author                                                                                  | Total Pages | Status  |
@@ -58,8 +57,8 @@ My bookshelf contains notes from books where I've summarised its core ideas. It'
 > | ![coverImg\|100](http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Man's Search For Meaning - Viktor E Frankl\|Man's Search For Meaning - Viktor E Frankl]]                                                                                             | <ul><li>Viktor E Frankl</li></ul>                                                       | 240         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=VVsmU-4YwFsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Meditations - Aurelius Marcus\|Meditations - Aurelius Marcus]]                                                                                                                       | <ul><li>Aurelius Marcus</li></ul>                                                       | 228         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/On Writing - Stephen King\|On Writing - Stephen King]]                                                                                                                               | <ul><li>Stephen King</li></ul>                                                          | 108         | read    |
-> | ![coverImg\|100](http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Peak - Anders Ericsson, Robert Pool\|Peak - Anders Ericsson, Robert Pool]]                                                                                                           | <ul><li>Anders Ericsson</li><li>Robert Pool</li></ul>                                   | 338         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=M45vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Dispossessed - Ursula K Le Guin\|The Dispossessed - Ursula K Le Guin]]                                                                                                           | <ul><li>Ursula K. Le Guin</li></ul>                                                     | 0           | read    |
+> | ![coverImg\|100](http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/Peak - Anders Ericsson, Robert Pool\|Peak - Anders Ericsson, Robert Pool]]                                                                                                           | <ul><li>Anders Ericsson</li><li>Robert Pool</li></ul>                                   | 338         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=ZrsVZKWJg4UC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Handmaid's Tale - Margaret Atwood\|The Handmaid's Tale - Margaret Atwood]]                                                                                                       | <ul><li>Margaret Atwood</li></ul>                                                       | 325         | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=nYFXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Importance of Being Earnest - Oscar Wilde\|The Importance of Being Earnest - Oscar Wilde]]                                                                                       | <ul><li>Oscar Wilde</li></ul>                                                           | 86          | read    |
 > | ![coverImg\|100](http://books.google.com/books/content?id=2bNl0ZF25LgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [[./Areas/Books/The Left Hand Of Darkness - Ursula K Le Guin\|The Left Hand Of Darkness - Ursula K Le Guin]]                                                                                         | <ul><li>Ursula K. Le Guin</li></ul>                                                     | 222         | read    |
@@ -69,7 +68,6 @@ My bookshelf contains notes from books where I've summarised its core ideas. It'
 > | ![coverImg\|100](http://books.google.com/books/content?id=7qylv1KYf0kC&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [[./Areas/Books/The Stranger - Albert Camus\|The Stranger - Albert Camus]]                                                                                                                           | <ul><li>Albert Camus</li></ul>                                                          | 144         | read    |
 > 
 
----
 ## Literature notes
 Literature notes are the highlights and quotes that are extracted from my e-ink reader (Kobo Libra 2 running KoReader). When I highlight passages in a book, I highlight them because I want to remember some of that content or they seem important at the time. I don't always then use the ideas that I've highlighted in my book notes. A passage that seemed significant may not be upon rereading. When I've made a book note out of the literature notes, I mark it completed as indicated in the tables below:
 ### Book notes
@@ -98,7 +96,6 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > | [[./Literature notes/James Clear - Atomic Habits\|James Clear - Atomic Habits]]                                         | \-             | James Clear                                        |
 > 
 
----
 ## Topics explored
 These are the topics and themes which I have explored in my learning or writing. Topics are strong have strong connections to their notes. Themes are lesser but nonetheless still relevant connections. 
 
@@ -188,5 +185,7 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [[What matters\|What matters]]                                      |
 > 
 
-# Footnotes
+
 [^1]: Second brains are popularised by Tiago Forte and are organised typically with his P.A.R.A method. Digital gardens are unorganized online notes that function similarly to blogs but have a less polished feel to it.
+[^2]: For example, see [[./Areas/Books/Peak - Anders Ericsson, Robert Pool|Peak - Anders Ericsson, Robert Pool]].
+[^3]: Users can view this website through the graph view to see how everything links; users can view by tags by clicking them or searching, there is a search bar to search keywords and you can view folders.
