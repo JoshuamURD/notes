@@ -1,13 +1,12 @@
 @use "./base.scss";
 
-// setting up dropcaps
+// setting up fonts
 @font-face {
   font-family: drop;
   src: url("static/CamelotCaps.ttf");
 }
 
-article.popover-hint > h1:first-of-type + p:first-of-type::first-letter,
-article.popover-hint > h2:first-of-type + p:first-of-type::first-letter {
+article.popover-hint > h2.purpose + p:first-of-type::first-letter {
   float: left;
   line-height: 85%;
   width: 0.2em;
@@ -25,7 +24,7 @@ p > img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 15rem;
 }
 // decorate headings
 h1 {
@@ -78,4 +77,35 @@ div.recent-notes {
 // title animation
 h1.page-title {
   animation: fadee 1.2s ease forwards;
+}
+// latex tables
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: auto;
+  max-width: 100%;
+  border-top: 2.27px solid black;
+  border-bottom: 2.27px solid black;
+  overflow-x: auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+th,
+td {
+  border: 0 none !important;
+  text-align: left;
+  padding: 0.5rem;
+  line-height: 1.1;
+}
+tr:hover,
+td:hover {
+  background-color: #cccccc;
+}
+
+@font-face {
+  font-family: headings;
+  src: url("static/Fontspring-DEMO-juana-regular.otf");
+}
+div.center h1 {
+  font-family: "headings";
+  font-size: 3rem;
 }
