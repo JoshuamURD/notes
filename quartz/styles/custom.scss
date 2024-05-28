@@ -121,4 +121,38 @@ h1.page-title {
 }
 div.center h2 {
   font-family: "sub-heading";
+  transform: rotate(1deg);
+}
+// graph animation
+div.graph h3 {
+  animation: fadee 1.2s ease forwards;
+}
+// toc changeup
+div.toc a[class=""] {
+  opacity: 0.1;
+}
+
+h1.article-title {
+  animation: bounce 1s infinite ease alternate;
+  animation-play-state: paused;
+  border-bottom: none;
+}
+h1.article-title:hover {
+  animation-play-state: running;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
 }
