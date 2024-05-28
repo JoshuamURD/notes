@@ -78,6 +78,7 @@ div.recent-notes {
 // title animation
 h1.page-title {
   animation: fadee 1.2s ease forwards;
+  font-family: sub-heading;
 }
 // latex tables
 table {
@@ -110,10 +111,6 @@ div.center h1 {
   font-family: "headings";
   font-size: 3rem;
 }
-h1.page-title {
-  font-family: "headings";
-  color: black;
-}
 // setting subheading font
 @font-face {
   font-family: sub-heading;
@@ -132,13 +129,15 @@ div.toc a[class=""] {
   opacity: 0.1;
 }
 
+//Bouncy heading
 h1.article-title {
-  animation: bounce 1s infinite ease alternate;
+  animation: bounce 1s infinite ease;
   animation-play-state: paused;
   border-bottom: none;
 }
 h1.article-title:hover {
   animation-play-state: running;
+  animation-delay: 1s;
 }
 
 @keyframes bounce {
@@ -155,4 +154,14 @@ h1.article-title:hover {
   60% {
     transform: translateY(-15px);
   }
+}
+//content meta font
+.content-meta {
+  font-family: sub-heading;
+}
+
+//darkmode button bounce
+div.darkmode {
+  animation: bounce 1s ease;
+  animation-delay: 3s;
 }
