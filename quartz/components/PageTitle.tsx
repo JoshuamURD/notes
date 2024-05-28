@@ -25,16 +25,20 @@ PageTitle.css = `
 }
 @keyframes hideshow {
   from {
+    transform: translateY(-60px);
+    transform: rotate(-180deg);
     opacity: 0;
     width:0%;
   }
   to {
+    transform: translateY(0px);
+    transform: rotate(0deg);
     opacity: 1;
     width:30%:
   }
 } 
 div.page-title-container img {
-  animation: hideshow 1.5s ease;
+  animation: hideshow 1.2s ease-in-out;
   display: block;
   margin-left: auto;
   margin-right: auto;
