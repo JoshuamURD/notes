@@ -8,7 +8,7 @@ topics:
   - "[[science fiction|science fiction]]"
 themes: 
 author:
-  - Ursla K Le Guin
+  - Ursula K. Le Guin
 thoughts-summary: Amazing book that explores the benefits and drawbacks of both capitalism and union based anarchism
 ---
 You put another lock on the door and call it democracy
