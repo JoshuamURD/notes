@@ -16,6 +16,8 @@ cover: http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover
 status: read
 created: 2024-05-12 16:30:28
 updated: 2024-05-12 16:30:28
+topics:
+  - "[[Learning|Learning]]"
 ---
 
 ![cover|150](http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -25,9 +27,9 @@ This book is the culmination of several years of research. The scientists who au
 - ## [[../../Literature notes/Anderss Ericsson and Robert Pool - Peak|Anderss Ericsson and Robert Pool - Peak]]
 # Linking notes
 - [[../General/barriers arise in learning|barriers arise in learning]]: #atomic made on May 12, 2024
-- [[../General/Deliberate practice|Deliberate practice]]: #atomic made on April 29, 2024
-- [[../General/Learning a new skill causes changes in the brain|Learning a new skill causes changes in the brain]]: #atomic made on April 29, 2024
-- [[../General/People can learn more than they realise|People can learn more than they realise]]: #atomic made on April 29, 2024
 - [[../General/Practice outside your comfort zone|Practice outside your comfort zone]]: #atomic made on April 29, 2024
 - [[../General/Purposeful practice|Purposeful practice]]: #atomic made on April 29, 2024
 - [[../General/mental representations|mental representations]]: #atomic made on April 29, 2024
+- [[../General/Learning a new skill causes changes in the brain|Learning a new skill causes changes in the brain]]: #atomic made on April 29, 2024
+- [[../General/Deliberate practice|Deliberate practice]]: #atomic made on April 29, 2024
+- [[../General/People can learn more than they realise|People can learn more than they realise]]: #atomic made on April 29, 2024
