@@ -8,12 +8,13 @@ themes:
   - "[[Javascript|Javascript]]"
   - "[[html|html]]"
   - "[[CSS|CSS]]"
+  - "[[databases|databases]]"
 references:
   - https://www.udemy.com/course/the-web-developer-bootcamp/
 ---
 # Course details
 This is a Udemy course by Colt Steele who is also a Youtuber. The course covers several topics in web development, security and thinking. The course assumes zero web development knowledge:
-- HTML  
+- HTML 
 - CSS
 	- Bootstrap
 - Javascript
@@ -23,6 +24,12 @@ This is a Udemy course by Colt Steele who is also a Youtuber. The course covers 
 
 # Linking notes
 
+- [[../General/CSS psuedo classes|CSS psuedo classes]]: #atomic made on May 27, 2024
+- [[../General/CSS font family|CSS font family]]: #atomic made on May 25, 2024
+- [[../General/CSS font size|CSS font size]]: #atomic made on May 25, 2024
+- [[../General/CSS selectors|CSS selectors]]: #atomic made on May 25, 2024
+- [[../General/HTML forms|HTML forms]]: #atomic made on May 23, 2024
+- [[../General/HTML tables|HTML tables]]: #atomic made on May 23, 2024
 - [[../General/HTML boilerplate|HTML boilerplate]]: #atomic made on May 21, 2024
 - [[../General/HTML entity codes|HTML entity codes]]: #atomic made on May 21, 2024
 - [[../General/HTML inline vs block elements|HTML inline vs block elements]]: #atomic made on May 21, 2024
