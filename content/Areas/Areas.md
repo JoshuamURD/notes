@@ -1,12 +1,12 @@
 %% Begin Waypoint %%
 - **Essays**
 	- [[./Essays/Absurdism and normalised behaviour|Absurdism and normalised behaviour]]
-	- [[./Essays/Dealing with inherent suffering|Dealing with inherent suffering]]
-	- [[./Essays/Exercise and vaping|Exercise and vaping]]
-	- [[./Essays/How to get into dieting|How to get into dieting]]
+	- [[Dealing with inherent suffering|Dealing with inherent suffering]]
+	- [[Exercise and vaping|Exercise and vaping]]
+	- [[How to get into dieting|How to get into dieting]]
 	- [[./Essays/Interpretations of stoicism|Interpretations of stoicism]]
-	- [[./Essays/Mental health|Mental health]]
-	- [[./Essays/Methods to happiness|Methods to happiness]]
+	- [[Mental health|Mental health]]
+	- [[Methods to happiness|Methods to happiness]]
 	- [[./Essays/Monitor how you spend time|Monitor how you spend time]]
 	- [[./Essays/Two minds|Two minds]]
 	- [[./Essays/We are what we focus our minds on|We are what we focus our minds on]]

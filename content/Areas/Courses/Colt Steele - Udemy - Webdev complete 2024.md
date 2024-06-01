@@ -24,6 +24,12 @@ This is a Udemy course by Colt Steele who is also a Youtuber. The course covers 
 
 # Linking notes
 
+- [[../General/CSS important |CSS important ]]: #atomic made on June 01, 2024
+- [[../General/CSS inheritence|CSS inheritence]]: #atomic made on June 01, 2024
+- [[../General/CSS inline styles|CSS inline styles]]: #atomic made on June 01, 2024
+- [[../General/CSS cascade|CSS cascade]]: #atomic made on May 29, 2024
+- [[../General/CSS pseudo elements|CSS pseudo elements]]: #atomic made on May 29, 2024
+- [[../General/CSS specificity|CSS specificity]]: #atomic made on May 29, 2024
 - [[../General/CSS psuedo classes|CSS psuedo classes]]: #atomic made on May 27, 2024
 - [[../General/CSS font family|CSS font family]]: #atomic made on May 25, 2024
 - [[../General/CSS font size|CSS font size]]: #atomic made on May 25, 2024
