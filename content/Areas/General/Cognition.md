@@ -1,8 +1,8 @@
----
-tags:
-  - topic
-themes: 
-aliases:
-  - cognitive
-  - cognitive science
----
+---  
+tags:  
+  - topic  
+themes:   
+aliases:  
+  - cognitive  
+  - cognitive science  
+---  

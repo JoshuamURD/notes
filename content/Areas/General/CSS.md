@@ -1,24 +1,28 @@
----
-tags:
-  - topic
-themes:
-  - "[[html|html]]"
-  - "[[Javascript|Javascript]]"
-aliases: 
----
-CSS stands for cascading style sheets. It is how formatting and styling is applied to HTML elements. 
-# Linking notes
-
-- [[./CSS box model|CSS box model]]: #atomic made on June 01, 2024
-- [[./CSS inline styles|CSS inline styles]]: #atomic made on June 01, 2024
-- [[./CSS inheritence|CSS inheritence]]: #atomic made on June 01, 2024
-- [[./CSS important |CSS important ]]: #atomic made on June 01, 2024
-- [[./CSS specificity|CSS specificity]]: #atomic made on May 29, 2024
-- [[./CSS pseudo elements|CSS pseudo elements]]: #atomic made on May 29, 2024
-- [[./CSS cascade|CSS cascade]]: #atomic made on May 29, 2024
-- [[./Bezier curve|Bezier curve]]: #atomic made on May 29, 2024
-- [[./CSS psuedo classes|CSS psuedo classes]]: #atomic made on May 27, 2024
-- [[./CSS selectors|CSS selectors]]: #atomic made on May 25, 2024
-- [[./CSS font size|CSS font size]]: #atomic made on May 25, 2024
-- [[./CSS font family|CSS font family]]: #atomic made on May 25, 2024
-- [[../Courses/Colt Steele - Udemy - Webdev complete 2024|Colt Steele - Udemy - Webdev complete 2024]]: #course made on May 21, 2024
+---  
+tags:  
+  - topic  
+themes:  
+  - "[html](html.md)"  
+  - "[Javascript](Javascript.md)"  
+aliases:   
+---  
+CSS stands for cascading style sheets. It is how formatting and styling is applied to HTML elements.   
+# Linking notes  
+  
+- [CSS flexbox](./CSS%20flexbox.md): #atomic made on June 04, 2024  
+- [CSS position](./CSS%20position.md): #atomic made on June 03, 2024  
+- [CSS display](./CSS%20display.md): #atomic made on June 03, 2024  
+- [CSS shorthand property](./CSS%20shorthand%20property.md): #atomic made on June 01, 2024  
+- [CSS inline styles](./CSS%20inline%20styles.md): #atomic made on June 01, 2024  
+- [CSS inheritence](./CSS%20inheritence.md): #atomic made on June 01, 2024  
+- [CSS important ](./CSS%20important.md): #atomic made on June 01, 2024  
+- [CSS box model](./CSS%20box%20model.md): #atomic made on June 01, 2024  
+- [CSS specificity](./CSS%20specificity.md): #atomic made on May 29, 2024  
+- [CSS pseudo elements](./CSS%20pseudo%20elements.md): #atomic made on May 29, 2024  
+- [CSS cascade](./CSS%20cascade.md): #atomic made on May 29, 2024  
+- [Bezier curve](./Bezier%20curve.md): #atomic made on May 29, 2024  
+- [CSS psuedo classes](./CSS%20psuedo%20classes.md): #atomic made on May 27, 2024  
+- [CSS selectors](./CSS%20selectors.md): #atomic made on May 25, 2024  
+- [CSS font size](./CSS%20font%20size.md): #atomic made on May 25, 2024  
+- [CSS font family](./CSS%20font%20family.md): #atomic made on May 25, 2024  
+- [Colt Steele - Udemy - Webdev complete 2024](../Courses/Colt%20Steele%20-%20Udemy%20-%20Webdev%20complete%202024.md): #course made on May 21, 2024  
