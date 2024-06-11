@@ -18,6 +18,7 @@ updated: 2024-05-12 17:00:33
 topics:  
   - "[logotherapy](logotherapy.md)"  
   - "[Psychology](Psychology.md)"  
+date:   
 ---  
   
 ![cover|200](http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)  
