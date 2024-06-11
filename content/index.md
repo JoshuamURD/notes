@@ -18,7 +18,7 @@ There are many ways to *traverse* the connected notes. You can search by pressin
 I'll be using it to develop my [mental representations](./Areas/General/mental%20representations.md) of different topics I learn from literature, videos and podcasts. Not all of these notes will be complete, or publicly available. There are no transient notes in this system. Digital gardens are places where notes and writing grows over time. A seed, an idea, it grows over time - the idea takes root. As those roots grow and connect to others, it becomes part of a larger network.  
   
   
-Notes are written in draft format and shared without proper revision. I will revisit topics and notes, I'll be practicing writing by rewriting - revising and developing notes. Notes will be linked to relevant notes to be able to jump through trains of thought. These notes will grow as they form part of the knowledge network. Some of the notes will become very polished and will stand on their own as well research articles - which is what most digital gardeners call an "evergreen" note. Evergreen notes are curated and extensively linked notes.   
+Notes are written in draft format and shared without proper revision. I will revisit topics and notes, I'll be practicing writing by rewriting - . Notes will be linked to relevant notes to be able to jump through trains of thought. These notes will grow as they form part of the knowledge network. Some of the notes will become very polished and will stand on their own as well research articles - which is what most digital gardeners call an "evergreen" note. Evergreen notes are curated and extensively linked notes.   
   
 My hope is that as I get better at web development - and accumulate ideas and references - that I will inspire others to begin their own self-learning journey. I hope that I will spark creativity or interest in a topic that can feed curiosity - all the resources will be right here! I believe that we live in an opportune time for learning and developing our own interests. May are fortunate to have access to all the learning resources they need to develop their abilities in any area. Never before has there been greater access to the internet. There are thousands of free resources and cheap books with knowledge abounds out there for all kinds of interests. The problem is that with all these developments of technology, also comes distraction. The same tools that have given us the freedom to learn and acquire knowledge are also the things which distract us.   
   
@@ -53,6 +53,11 @@ A topic which is "top of mind" is one which I am currently looking into actively
 	- [Javascript](Javascript.md)  
 	- [CSS](./Areas/General/CSS.md)  
 - [Josh digital garden](Josh%20digital%20garden.md)  
+  
+  
+I'm currently trying to write [Hive mind](./Novels/Hive%20mind.md).  
+  
+  
 ## Bookshelf  
 My bookshelf is where you can see what I'm currently reading and what I've finished. When I finish a book, I try to write a summary of its core ideas. Each book note will link to any literature notes which contain highlights. If any atomic notes or quotes have been saved from those literature notes, they can be seen in the book notes.[^2]  
   
@@ -92,9 +97,9 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > [!SUMMARY]- Fiction  
 >  | Title                                                                                                  | Date imported  | Author                              |  
 > | ------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------------- |  
-> | [Ursla K Le Guin - The Dispossessed](./Literature%20notes/Ursla%20K%20Le%20Guin%20-%20The%20Dispossessed.md)         | March 23, 2024 | <ul><li>Ursula K. Le Guin</li></ul> |  
-> | [Ernest Hemingway - Old Man and the Sea](./Literature%20notes/Ernest%20Hemingway%20-%20Old%20Man%20and%20the%20Sea.md) | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul>  |  
 > | [Daniel Keyes - Flowers for Algernon](./Literature%20notes/Daniel%20Keyes%20-%20Flowers%20for%20Algernon.md)       | March 23, 2024 | <ul><li>Daniel Keyes</li></ul>      |  
+> | [Ernest Hemingway - Old Man and the Sea](./Literature%20notes/Ernest%20Hemingway%20-%20Old%20Man%20and%20the%20Sea.md) | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul>  |  
+> | [Ursla K Le Guin - The Dispossessed](./Literature%20notes/Ursla%20K%20Le%20Guin%20-%20The%20Dispossessed.md)         | March 23, 2024 | <ul><li>Ursula K. Le Guin</li></ul> |  
 > | [Yoel Hoffman - Japanese Death Poems](./Literature%20notes/Yoel%20Hoffman%20-%20Japanese%20Death%20Poems.md)       | \-             | \-                                  |  
 >   
   
@@ -104,13 +109,13 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > | [Stephen King - On Writing A Memoir of the Craft](./Literature%20notes/Stephen%20King%20-%20On%20Writing%20A%20Memoir%20of%20the%20Craft.md) | May 16, 2024   | <ul><li>Stephen King</li></ul>                     |  
 > | [Anderss Ericsson and Robert Pool - Peak](./Literature%20notes/Anderss%20Ericsson%20and%20Robert%20Pool%20-%20Peak.md)                 | April 18, 2024 | <ul><li>Anderss Ericsson and Robert Pool</li></ul> |  
 > | [Miyamoto Musashi - 21 principles of Dokkodo](./Literature%20notes/Miyamoto%20Musashi%20-%2021%20principles%20of%20Dokkodo.md)         | April 09, 2024 | <ul><li>Miyamoto Musashi</li></ul>                 |  
-> | [Victor E Frankl - Mans Search For Meaning](./Literature%20notes/Victor%20E%20Frankl%20-%20Mans%20Search%20For%20Meaning.md)             | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |  
-> | [Seneca - Letters from a Stoic](./Literature%20notes/Seneca%20-%20Letters%20from%20a%20Stoic.md)                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |  
-> | [Marcus Aurelius - Meditations](./Literature%20notes/Marcus%20Aurelius%20-%20Meditations.md)                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |  
-> | [Kate Murphy - You're Not Listening](./Literature%20notes/Kate%20Murphy%20-%20You're%20Not%20Listening.md)                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |  
 > | [Helen Fisher - Why We Love](./Literature%20notes/Helen%20Fisher%20-%20Why%20We%20Love.md)                                           | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |  
-> | [Mortimer J Adler - How to Read a Book](./Literature%20notes/Mortimer%20J%20Adler%20-%20How%20to%20Read%20a%20Book.md)                     | \-             | <ul><li>Mortimer J Adler</li></ul>                 |  
+> | [Kate Murphy - You're Not Listening](./Literature%20notes/Kate%20Murphy%20-%20You're%20Not%20Listening.md)                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |  
+> | [Marcus Aurelius - Meditations](./Literature%20notes/Marcus%20Aurelius%20-%20Meditations.md)                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |  
+> | [Seneca - Letters from a Stoic](./Literature%20notes/Seneca%20-%20Letters%20from%20a%20Stoic.md)                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |  
+> | [Victor E Frankl - Mans Search For Meaning](./Literature%20notes/Victor%20E%20Frankl%20-%20Mans%20Search%20For%20Meaning.md)             | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |  
 > | [James Clear - Atomic Habits](./Literature%20notes/James%20Clear%20-%20Atomic%20Habits.md)                                         | \-             | James Clear                                        |  
+> | [Mortimer J Adler - How to Read a Book](./Literature%20notes/Mortimer%20J%20Adler%20-%20How%20to%20Read%20a%20Book.md)                     | \-             | <ul><li>Mortimer J Adler</li></ul>                 |  
 >   
   
 ## Topics explored  
