@@ -97,9 +97,9 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > [!SUMMARY]- Fiction  
 >  | Title                                                                                                  | Date imported  | Author                              |  
 > | ------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------------- |  
-> | [Daniel Keyes - Flowers for Algernon](./Literature%20notes/Daniel%20Keyes%20-%20Flowers%20for%20Algernon.md)       | March 23, 2024 | <ul><li>Daniel Keyes</li></ul>      |  
-> | [Ernest Hemingway - Old Man and the Sea](./Literature%20notes/Ernest%20Hemingway%20-%20Old%20Man%20and%20the%20Sea.md) | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul>  |  
 > | [Ursla K Le Guin - The Dispossessed](./Literature%20notes/Ursla%20K%20Le%20Guin%20-%20The%20Dispossessed.md)         | March 23, 2024 | <ul><li>Ursula K. Le Guin</li></ul> |  
+> | [Ernest Hemingway - Old Man and the Sea](./Literature%20notes/Ernest%20Hemingway%20-%20Old%20Man%20and%20the%20Sea.md) | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul>  |  
+> | [Daniel Keyes - Flowers for Algernon](./Literature%20notes/Daniel%20Keyes%20-%20Flowers%20for%20Algernon.md)       | March 23, 2024 | <ul><li>Daniel Keyes</li></ul>      |  
 > | [Yoel Hoffman - Japanese Death Poems](./Literature%20notes/Yoel%20Hoffman%20-%20Japanese%20Death%20Poems.md)       | \-             | \-                                  |  
 >   
   
@@ -109,13 +109,13 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > | [Stephen King - On Writing A Memoir of the Craft](./Literature%20notes/Stephen%20King%20-%20On%20Writing%20A%20Memoir%20of%20the%20Craft.md) | May 16, 2024   | <ul><li>Stephen King</li></ul>                     |  
 > | [Anderss Ericsson and Robert Pool - Peak](./Literature%20notes/Anderss%20Ericsson%20and%20Robert%20Pool%20-%20Peak.md)                 | April 18, 2024 | <ul><li>Anderss Ericsson and Robert Pool</li></ul> |  
 > | [Miyamoto Musashi - 21 principles of Dokkodo](./Literature%20notes/Miyamoto%20Musashi%20-%2021%20principles%20of%20Dokkodo.md)         | April 09, 2024 | <ul><li>Miyamoto Musashi</li></ul>                 |  
-> | [Helen Fisher - Why We Love](./Literature%20notes/Helen%20Fisher%20-%20Why%20We%20Love.md)                                           | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |  
-> | [Kate Murphy - You're Not Listening](./Literature%20notes/Kate%20Murphy%20-%20You're%20Not%20Listening.md)                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |  
-> | [Marcus Aurelius - Meditations](./Literature%20notes/Marcus%20Aurelius%20-%20Meditations.md)                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |  
-> | [Seneca - Letters from a Stoic](./Literature%20notes/Seneca%20-%20Letters%20from%20a%20Stoic.md)                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |  
 > | [Victor E Frankl - Mans Search For Meaning](./Literature%20notes/Victor%20E%20Frankl%20-%20Mans%20Search%20For%20Meaning.md)             | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |  
-> | [James Clear - Atomic Habits](./Literature%20notes/James%20Clear%20-%20Atomic%20Habits.md)                                         | \-             | James Clear                                        |  
+> | [Seneca - Letters from a Stoic](./Literature%20notes/Seneca%20-%20Letters%20from%20a%20Stoic.md)                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |  
+> | [Marcus Aurelius - Meditations](./Literature%20notes/Marcus%20Aurelius%20-%20Meditations.md)                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |  
+> | [Kate Murphy - You're Not Listening](./Literature%20notes/Kate%20Murphy%20-%20You're%20Not%20Listening.md)                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |  
+> | [Helen Fisher - Why We Love](./Literature%20notes/Helen%20Fisher%20-%20Why%20We%20Love.md)                                           | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |  
 > | [Mortimer J Adler - How to Read a Book](./Literature%20notes/Mortimer%20J%20Adler%20-%20How%20to%20Read%20a%20Book.md)                     | \-             | <ul><li>Mortimer J Adler</li></ul>                 |  
+> | [James Clear - Atomic Habits](./Literature%20notes/James%20Clear%20-%20Atomic%20Habits.md)                                         | \-             | James Clear                                        |  
 >   
   
 ## Topics explored  
@@ -131,12 +131,12 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [Cognition](./Areas/General/Cognition.md)                                         | 1        |  
 > | [CSS](./Areas/General/CSS.md)                                                     | 16       |  
 > | [html](./Areas/General/html.md)                                                   | 6        |  
-> | [Learning](./Areas/General/Learning.md)                                           | 11       |  
+> | [Learning](./Areas/General/Learning.md)                                           | 12       |  
 > | [logotherapy](./Areas/General/logotherapy.md)                                     | 1        |  
 > | [personal knowledge management](./Areas/General/personal%20knowledge%20management.md) | 2        |  
 > | [Philosophy](./Areas/General/Philosophy.md)                                       | 17       |  
 > | [Psychology](./Areas/General/Psychology.md)                                       | 5        |  
-> | [Writing](./Areas/General/Writing.md)                                             | 8        |  
+> | [Writing](./Areas/General/Writing.md)                                             | 14       |  
 > | [Givers and receivers](./Areas/Ideas/Givers%20and%20receivers.md)                     | 1        |  
 > | [blogging](blogging.md)                                                            | 2        |  
 > | [Collective unconscious](Collective%20unconscious.md)                                | 1        |  
@@ -175,6 +175,7 @@ These are the topics and themes which I have explored in my learning or writing.
 > | --------------------------------------------------------------------------------- |  
 > | [aggregation of marginal gains](aggregation%20of%20marginal%20gains.md)                  |  
 > | [Two minds](./Areas/Essays/Two%20minds.md)                                          |  
+> | [Cognition](./Areas/General/Cognition.md)                                         |  
 > | [CSS box model](./Areas/General/CSS%20box%20model.md)                                 |  
 > | [CSS cascade](./Areas/General/CSS%20cascade.md)                                     |  
 > | [CSS selectors](./Areas/General/CSS%20selectors.md)                                 |  
@@ -185,6 +186,7 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [html](./Areas/General/html.md)                                                   |  
 > | [logotherapy](./Areas/General/logotherapy.md)                                     |  
 > | [mental representations](./Areas/General/mental%20representations.md)               |  
+> | [Psychology](./Areas/General/Psychology.md)                                       |  
 > | [Purposeful practice](./Areas/General/Purposeful%20practice.md)                     |  
 > | [blogging](blogging.md)                                                            |  
 > | [databases](databases.md)                                                          |  
