@@ -26,6 +26,7 @@ This book is the culmination of several years of research. The scientists who au
 # Literature notes  
 - ## [Anderss Ericsson and Robert Pool - Peak](../../Literature%20notes/Anderss%20Ericsson%20and%20Robert%20Pool%20-%20Peak.md)  
 # Linking notes  
+- [Learning, improving mental performance](../General/Learning,%20improving%20mental%20performance.md): #atomic made on June 11, 2024  
 - [barriers arise in learning](../General/barriers%20arise%20in%20learning.md): #atomic made on May 12, 2024  
 - [Most people stop at "acceptable" skill levels](../General/Most%20people%20stop%20at%20%22acceptable%22%20skill%20levels.md): #atomic made on May 12, 2024  
 - [mental representations](../General/mental%20representations.md): #atomic made on April 29, 2024  
