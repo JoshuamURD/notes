@@ -6,13 +6,12 @@ topics:
 themes: 
 complete: false
 ---
-You put another lock on the door and call it democracy
 
-Sterility. Sterility on all sides. As far as the eye can see the infertile desert lies in the pitiless glare of the merciless sun, a lifeless, trackless, feckless, fuckless waste strown with the bones of luckless wayfarers
+> [!Quote] Ursla K Le Guin - The Dispossessed
+> ![[../Literature notes/Ursla K Le Guin - The Dispossessed|Ursla K Le Guin - The Dispossessed]]
+> You put another lock on the door and call it democracy
 
-# Chapter 1
-
-*We have always been too smart for our own good. Technology we develop fast; our brains stagnate. Human neurology has not changed for thousands of years. Yet, we have technology of the gods. The power to end worlds. The power to oppress.* 
+Sterility. Sterility on all sides. As far as the eye can see the infertile desert lies in the pitiless glare of the merciless sun, a lifeless, trackless, feckless, fuckless waste strown with the bones of luckless wayfarers smart for our own good. Technology we develop fast; our brains stagnate. Human neurology has not changed for thousands of years. Yet, we have technology of the gods. The power to end worlds. The power to oppress.* 
 
 
 *In my early childhood, we processed information the natural way. Our technology was limited by how fast we could search something up. The data stream from knowledge to mind was mediated through our fingertips.* 
