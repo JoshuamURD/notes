@@ -36,7 +36,7 @@ complete: false
 *"Show us what it does" cheered a boy, the crowd rallied.*  
   
   
-*The boy looked the TV mounted on the wall, the heads of the crowd followed. Nothing happened, but then the TV pixelated and turned black.*   
+*The boy looked at a TV mounted on the wall, the heads of the crowd followed. Nothing much happened at first but then the TV pixelated and turned black.*   
   
   
 *The TV turned on, except, it wasn't showing the same picture it had before. A video played showing the faces of the people in the crowd. The boy smiled, the TV sparked and caught flame. The crowd cheered but dispersed when the fire alarm blared.*  
@@ -99,10 +99,58 @@ Mike swiveled back around on his chair and resumed his call - he held up a hand 
 Torna's head pounded, she gripped the railing and held her head. The elevator slowed to a stop and dinged.   
   
   
-Torna stepped out onto the bustling street of a future city, a city pulsating with life and technology. The noise of the city was suffocating. Foot traffic was shoulder to shoulder.The pedestrian heads glowed green and red, casting long shadows on the grimy footpath.  Skyscrapers enveloped the city, their steel frames obscured by neon advertisements that flickered with hypnotic intensity. Hovercars emblazoned with various corporate logos zoomed overhead, shrouded in the fog chocked skyline. The air was wet with an acrid stench of industrial pollution and poverty - creating a nauseating cocktail.   
+Torna stepped out onto the bustling street of a future city, a city that pulsated with life and technology. The noise was suffocating; Foot traffic was shoulder to shoulder. The pedestrian heads glowed green and red, casting long shadows on the grimy footpath. Skyscrapers with steel frames that were obscured by neon advertisements - flickering with hypnotic intensity. Hovercars emblazoned by various corporate logos, traveled overhead. The skyline was shrouded in a chocking fog. Air was wet with the acrid stench of industrial pollution and poverty, creating a nauseating cocktail.   
   
   
-Torna trudged along the cracked pavement. She stepped heavy with exhaustion. The thought of seeing her child at home spurred her to life. She closed her eyes and the light turned green. A holographic display flickered to life and she opened her eyes. Torna selected the icon for a personal taxi service - the display stuttered and froze. Torna continued to select with frustration, the display refused to respond to her commands. After a few futile attempts, the holograph responded: *Economy Taxi ETA 5 minutes for a fee of 30 credits.*  
+Torna trudged the decrepit pavement. She stepped heavy with exhaustion, the thought of seeing her child at home lingered in her mind. She closed her eyes and the light turned green. A holographic display flickered to life, she opened her eyes. Torna selected the icon for a personal taxi service - the display stuttered and froze. Torna continued to select with frustration, the display refused to respond to her commands. A few futile attempts, and the holograph responded:  
   
   
-Torna arrived at her apartment complex. The  and pressed her finger to the scanner. The door buzzed open 
+*Economy Automated Taxi: ETA 5 minutes for a fee of 30 credits.*  
+  
+  
+Torna was barely conscious the ride home. The economy automated taxi (E.A.T) slowed down to a stop, the internal lights came on and the car door rose up. A disembodied voice erupted from the car:  
+  
+"Thanks for using E.A.T, we're dedicated to stellar service. We have automatically included our sleeping passenger fee to your total. It's good to E.A.T!"   
+  
+  
+Torna's eyes cracked open and she saw a holograph appear:   
+  
+  
+*-100 credits*   
+  
+  
+Torna stumbled out of the car and approached her apartment tower. The tower rose above the fog and beyond the visible skyline. The flickering street lights did little to dispel the shadows that held to the crumbling building. The graffiti covered walls seemed to loom down at her. Derelicts littered the entrance to the building. Clouds of coloured vapor expelled their mouths.   
+  
+  
+Pushing open the rusted metal gate, she stepped into the dimly lit foyer. She made her way into the ancient elevator and pressed the button to go up - it groaned to life. Its ascent was accompanied by the creaking of old metal. As the elevator rose ever higher, the sounds of the city faded in the background. With a final shudder, the elevator came to a halt, its doors sliding open to reveal the dimly lit hallway beyond. Torna stepped out into the gloom, she made her way down the narrow corridor, passing doors with peeling paint and makeshift barricades. The sounds of laughter and conversation echoed through the paper thin walls. Finally, she reached her own door, its frame warped and weathered, her apartment number hung at an odd angle. Torna pressed her thumb to the biometric reader and the door buzzed. She pushed the door open, revealing the cramped confines of her apartment. The neon city outside cast a strange glow upon her walls, bathing the room in an eerie half light.   
+  
+The faint hum from below filled the air as Torner stepped further into the living space. Her tired eyes scanned the room until they landed on a figure slouched on the worn out sofa.   
+  
+  
+"Joj, you're home. I thought you were out tonight." Torna called out, her voice carrying a mixture of relief and weariness.   
+  
+  
+Joj looked up from the holograph screen projected from her nural interface, her eyes momentarily flickered with the iridescent glow of the virtual world she inhabited.   
+  
+  
+"That's tomorrow, I've already told you three times."  
+  
+  
+Torna sighed inwardly, "How was school today?" she asked  
+  
+  
+Joj shrugged, her attention already drifting back to the virtual interface hovering before her.   
+  
+  
+"Same old, same old" she muttered, her fingers deftly manipulating the holographic controls with a practiced ease.  
+  
+  
+Torna's heart sank at the casual dismissal, a pang of guilt gnawed at her for not being around more.   
+  
+"Maybe we could have dinner together, catch up?" she said trying to bridge the chasm between them.  
+  
+  
+Joj hesitated for a moment, her gaze lingering on the virtual surface before finally turning to meet her mother's eyes.   
+  
+  
+"Sure, sounds good." she replied, a glimmer of warmth softened her expression.  
