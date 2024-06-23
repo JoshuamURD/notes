@@ -9,7 +9,7 @@ complete: false
 ---  
 # Chapter 1  
   
-*We have always been too smart for our own good. Technology we develop fast; our brains stagnate. Human neurology has not changed for thousands of years. Yet, we have technology of the gods. The power to end worlds. The power to oppress.*   
+*Humans have always been too smart for their own good. Well, in some ways. Technology we develop fast; human nature doesn't change. Our neurology has not changed for thousands of years. Yet, we have technology of the gods. The power to end worlds. The power to oppress.*   
   
   
 *In my early childhood, information was processed slowly. Naturally. Our technology was limited by how fast we could search something up. The data stream from knowledge to mind was mediated through our fingertips.*   
@@ -40,7 +40,7 @@ complete: false
 *The boy looked at a TV mounted on the wall, the heads of the crowd followed. Nothing much happened at first but then the TV pixelated and turned black; the TV turned on, except, it wasn't showing the same picture it had before. A video played showing the faces of the people in the crowd. The boy smiled, the TV sparked and caught flame. The crowd cheered but dispersed when the fire alarm blared.*  
   
   
-*I went home that day and begged my parents to get one. They said we couldn't spare the credits. I knew we couldn't but it still hurt. Within a couple years, half my classmates had a Neural Net. Teachers allowed them free periods since they could download the course material. The rest of us had to study, the old fashioned way. I got my first Neural Net when i was 18. It's only a day surgery and doesn't leave any marks. A robotic surgeon is the only way it can be installed.*  
+*I went home that day and begged my parents to get one. They said we couldn't spare the credits. I knew we couldn't but it still hurt. Within a couple years, half my classmates had a Neural Net. Teachers allowed them free periods since they could download the course material. The rest of us had to study, the old fashioned way. I got my first Neural Net when i was 18. It's only a day surgery and doesn't leave any marks. A robotic surgeon is the only way it can be installed. My vision was different after. I felt different. There was something inside of me. A foreign object. The organic part of my brain cried out that something wasn't right - something it couldn't comprehend.*  
   
   
 Torna sat in her office chair, her were eyes slits of concentration. She sat in front of a desk enclosed in a cubicle. The desk was bare, except for a paper thin monitor which stretched across the desk. The side of Tornas' head was illuminated in green light indicating that her Neural Net was interfacing with the computer. The word editor was open on the monitor and had text running down at rapid speeds. Her hands sat upon her lap in fists.   
@@ -170,3 +170,6 @@ Joj prepared the dinner table while Torna cooked dinner. They sat down and ate i
   
   
 "I'm sure if they really are your friends, they would make the time. What's different with the newer model?"  
+  
+  
+""
