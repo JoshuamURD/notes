@@ -20,8 +20,4 @@ topics:
   
 ![cover|150](http://books.google.com/books/content?id=j8wF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)  
 # The Grapes of Wrath  
-  
-# Literature Notes  
-  
-# Linking notes  
-  
+The grapes of wrath is one of the books that really popularised Steinbeck. He won the nobel prize in literature for it. The book is set during the dust bowles of the 1930s in America. Many farmers lost their land due to the land becoming infertile. The story follows the Joads family making their way to the promised land of California - a place said to hold extremely fertile land and many job opportunities. The imagery and symbolism in this book is great and even more so is the dialogue. Steinbeck perfectly mastered the art of writing convincing dialogue with accents. You can't help but read the dialogue in their southerner accents. I really like the way he describes a scene from the narrator's perspective with non-specific details. He describes scenes where boys play in the empty farm houses and the dialogue in this grand expository scenes are not quotations. He says things like: the boys said that it was haunted, but they didn't care. It's this sort of dialogue where the scenes themselves almost become symbols with their non-specificity. Funnily enough, Steinbeck was never happy with this book. He always felt that he was too dumb to carve out what the book really wanted to say. It's interesting to see that such a highly accomplished novel can have an author who was so unsure of himself. Really goes to show that we aren't the best judges of our own writing ability. 
