@@ -8,8 +8,11 @@ themes:
 aliases:   
 ---  
 CSS stands for cascading style sheets. It is how formatting and styling is applied to HTML elements.   
-# Linking notes  
   
+# Related topics  
+- [Javascript](./Javascript.md): is a related #topic. Javascript is related to [CSS](CSS.md), [Web design](./Web%20design.md)  
+  
+# Linking notes  
 - [CSS, bootstrap](./CSS,%20bootstrap.md): #atomic made on June 23, 2024  
 - [CSS reset](./CSS%20reset.md): #atomic made on June 21, 2024  
 - [CSS media queries, responsive design](./CSS%20media%20queries,%20responsive%20design.md): #atomic made on June 19, 2024  
@@ -31,4 +34,3 @@ CSS stands for cascading style sheets. It is how formatting and styling is appli
 - [CSS font size](./CSS%20font%20size.md): #atomic made on May 25, 2024  
 - [CSS font family](./CSS%20font%20family.md): #atomic made on May 25, 2024  
 - [Colt Steele - Udemy - Webdev complete 2024](../Courses/Colt%20Steele%20-%20Udemy%20-%20Webdev%20complete%202024.md): #course made on May 21, 2024  
-- [Javascript](./Javascript.md): #topic made on \-  

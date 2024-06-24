@@ -4,6 +4,10 @@ tags:
 themes:   
 aliases:   
 ---  
+# Related topics  
+- [html](./html.md): is a related #topic. html is related to [Web design](Web%20design.md)  
+- [Javascript](./Javascript.md): is a related #topic. Javascript is related to [CSS](./CSS.md), [Web design](Web%20design.md)  
+- [CSS](./CSS.md): is a related #topic. CSS is related to [html](./html.md), [Javascript](./Javascript.md), [Web design](Web%20design.md)  
   
 # Linking notes  
 - [Frontend dev challenges ](./Frontend%20dev%20challenges.md): #atomic made on June 14, 2024  
@@ -14,6 +18,3 @@ aliases:
 - [Side note javascript](../Ideas/Side%20note%20javascript.md): #idea made on April 11, 2024  
 - [Humanist fonts](../Ideas/Humanist%20fonts.md): #idea made on April 11, 2024  
 - [brutalist web design](./brutalist%20web%20design.md): #atomic made on April 09, 2024  
-- [Javascript](./Javascript.md): #topic made on \-  
-- [html](./html.md): #topic made on \-  
-- [CSS](./CSS.md): #topic made on \-  

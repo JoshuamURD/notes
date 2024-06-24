@@ -13,4 +13,7 @@ Primitive types are the basic types of data a language can handle. Javascript's 
 - Strings  
 - Boolean  
 - Null  
-- Undefined
+- Undefined  
+  
+## Numbers  
+Javascript only has one number type, unlike other languages.
