@@ -35,7 +35,11 @@ I think the best way to get your goals is to track calories. This will guarantee
   
 ## Eating healthy without tracking calories  
 If you don't want to track calories, which not everyone does, another option is to eat healthy and have portion control. To eat healthy, it's best to stick to foods that don't have any ingredients - they are ingredients. For example, vegetables and meat don't contain ingredients, they are the ingredients. When selecting a meal when eating healthy, a good rule of thumb is to follow this formula:  
--   
+- include some form of protein.[^2]  
+- Some form of vegetables of your choice (ideally including some with of greens or reds).  
+- If more calories are needed, a carb source of your choice (i.e rice, potatos, pasta).  
+  
+Season the meat for variety or use a low calorie sauce. Eating in this way will still require some control on portion size. If can increase or reduce depending on your goal; so, just be aware of how much you're eating and it can be adjusted.  
   
 ## Weight loss tracking  
 In order to lose weight, the calorie intake needs to be less than the caloric expenditure. Roughly 7,000 calories is equivalent to 1kg of weight. When losing weight, some of it will inevitably be muscle and some if it will be fat.   
@@ -71,4 +75,5 @@ Training close to failure means being within 1-2 reps of failure. Training to fa
 # N.E.A.T  
 N.E.A.T stands for Non-exercise activity thermogenesis and it is essentially the energy expended for everything that is not sleeping and not exercise. This will vary between people depending on their daily activity. Some people will have a higher NEAT if they've got a more active lifestyle or job. To increase NEAT, the best way is to introduce steady state cardio. Steady state cardio is cardio which doesn't leave you breathless (i.e walking or slow jog). For those looking for weight loss, this is a very important factor to include. I recommend setting a step goal and going from there. It's better to set a step goal that is achievable and that can be increased as it becomes a habit. I recommend starting at 7,000 steps a day or 10,000 depending on what you average already.   
   
-[^1]: There are many online. There are different formulas to calculate but at the end of the day, it doesn't matter how accurate it is because it'll only be used as an estimate in the beginning.
+[^1]: There are many online. There are different formulas to calculate but at the end of the day, it doesn't matter how accurate it is because it'll only be used as an estimate in the beginning.  
+[^2]: See [Fitness, best protein sources to eat, meat](../General/Fitness,%20best%20protein%20sources%20to%20eat,%20meat.md)meat]]to eat]]
