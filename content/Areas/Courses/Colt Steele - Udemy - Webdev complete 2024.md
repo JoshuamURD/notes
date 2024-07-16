@@ -22,8 +22,28 @@ This is a Udemy course by Colt Steele who is also a Youtuber. The course covers 
 	- React  
 - MongoDB  
   
+So far in this course, I feel   
+  
 # Linking notes  
   
+- [JS, for in loop](../General/JS,%20for%20in%20loop.md): #atomic made on July 07, 2024  
+- [JS, for of loop](../General/JS,%20for%20of%20loop.md): #atomic made on July 07, 2024  
+- [AJAX](../General/AJAX.md): #atomic made on July 03, 2024  
+- [API](../General/API.md): #atomic made on July 03, 2024  
+- [JS, object literals](../General/JS,%20object%20literals.md): #atomic made on July 03, 2024  
+- [JS, adding javascript to a project](../General/JS,%20adding%20javascript%20to%20a%20project.md): #atomic made on June 24, 2024  
+- [JS, arrays](../General/JS,%20arrays.md): #atomic made on June 24, 2024  
+- [JS, basic variables](../General/JS,%20basic%20variables.md): #atomic made on June 24, 2024  
+- [JS, boolean](../General/JS,%20boolean.md): #atomic made on June 24, 2024  
+- [JS, constant variables](../General/JS,%20constant%20variables.md): #atomic made on June 24, 2024  
+- [JS, logical operators](../General/JS,%20logical%20operators.md): #atomic made on June 24, 2024  
+- [JS, null and undefined](../General/JS,%20null%20and%20undefined.md): #atomic made on June 24, 2024  
+- [JS, strings](../General/JS,%20strings.md): #atomic made on June 24, 2024  
+- [JS, variable naming convention](../General/JS,%20variable%20naming%20convention.md): #atomic made on June 24, 2024  
+- [CSS, bootstrap](../General/CSS,%20bootstrap.md): #atomic made on June 23, 2024  
+- [JS, primitive types](../General/JS,%20primitive%20types.md): #atomic made on June 23, 2024  
+- [CSS reset](../General/CSS%20reset.md): #atomic made on June 21, 2024  
+- [CSS media queries, responsive design](../General/CSS%20media%20queries,%20responsive%20design.md): #atomic made on June 19, 2024  
 - [CSS flexbox](../General/CSS%20flexbox.md): #atomic made on June 04, 2024  
 - [CSS display](../General/CSS%20display.md): #atomic made on June 03, 2024  
 - [CSS position](../General/CSS%20position.md): #atomic made on June 03, 2024  

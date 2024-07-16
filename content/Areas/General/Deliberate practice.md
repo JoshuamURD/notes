@@ -7,6 +7,7 @@ topics:
 themes:   
 references: "[[Peak - Anders Ericsson, Robert Pool]]"  
 ---  
+  
 Deliberate practice has been studied to be the most effective form of practice. To deliberately practice a skill, it takes these elements:  
 - you must practice something specific and it must be intentional (i.e can't be passive learning). This means that it must be a form of practice that requires full attention and conscious actions to the task.  
 - The practice regime is designed by a teacher or coach who is already familiar with the skills required  
