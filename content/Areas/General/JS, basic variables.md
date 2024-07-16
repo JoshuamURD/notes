@@ -4,7 +4,8 @@ tags:
   - atomic  
 topics:  
   - "[Javascript](Javascript.md)"  
-themes:   
+themes:  
+  - "[JS, primitive types](JS,%20primitive%20types.md)"  
 references:  
   - "[Colt Steele - Udemy - Webdev complete 2024](Colt%20Steele%20-%20Udemy%20-%20Webdev%20complete%202024.md)"  
 ---  
