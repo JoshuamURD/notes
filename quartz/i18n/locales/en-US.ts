@@ -22,15 +22,15 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Links to note",
-      noBacklinksFound: "No backlinks found",
+      title: "Related notes",
+      noBacklinksFound: "No notes link to this one.",
     },
     themeToggle: {
       lightMode: "Light mode",
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explore files...",
+      title: "Explorer",
     },
     footer: {
       createdWith: "Created with",

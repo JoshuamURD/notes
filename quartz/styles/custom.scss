@@ -123,9 +123,14 @@ div.center h2 {
 div.graph h3 {
   animation: fadee 1.2s ease forwards;
 }
-// toc changeup
+// Table of content styling
 div.toc a[class=""] {
   opacity: 0.1;
+}
+div.toc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 //Bouncy heading
@@ -167,4 +172,9 @@ div.darkmode {
 
 div.center a:visited {
   background-color: #fff;
+}
+
+// Styling search
+div.search {
+  max-width: 100%;
 }
