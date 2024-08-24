@@ -14,13 +14,13 @@ I'd like to get better at writing and have dedicated some of my time to research
   
 A very common technique in good writing is to write simply. Making sure that each word is worth its space on the page.    
 # Linking notes  
-- [Writing, hypnotise the reader](./Writing,%20hypnotise%20the%20reader.md): #atomic made on June 11, 2024  
-- [Writing, appeal to the senses](./Writing,%20appeal%20to%20the%20senses.md): #atomic made on June 11, 2024  
-- [Writing, show don't tell](./Writing,%20show%20don't%20tell.md): #atomic made on June 11, 2024  
-- [Writing, be specific most of the time](./Writing,%20be%20specific%20most%20of%20the%20time.md): #atomic made on June 11, 2024  
 - [Writing, writers often use redundant words](./Writing,%20writers%20often%20use%20redundant%20words.md): #atomic made on June 11, 2024  
+- [Writing, show don't tell](./Writing,%20show%20don't%20tell.md): #atomic made on June 11, 2024  
+- [Writing, hypnotise the reader](./Writing,%20hypnotise%20the%20reader.md): #atomic made on June 11, 2024  
+- [Writing, be specific most of the time](./Writing,%20be%20specific%20most%20of%20the%20time.md): #atomic made on June 11, 2024  
+- [Writing, appeal to the senses](./Writing,%20appeal%20to%20the%20senses.md): #atomic made on June 11, 2024  
 - [Use active voice, most of the time](./Use%20active%20voice,%20most%20of%20the%20time.md): #atomic made on June 03, 2024  
-- [Essay - why inclusion is necessary for the next step](../Ideas/Essay%20-%20why%20inclusion%20is%20necessary%20for%20the%20next%20step.md): #idea made on May 22, 2024  
+- [Essay - why inclusion is necessary for the next step](../Essays/Essay%20-%20why%20inclusion%20is%20necessary%20for%20the%20next%20step.md): #essay made on May 22, 2024  
 - [Why mini essays are important](../Essays/Why%20mini%20essays%20are%20important.md): #essay made on May 12, 2024  
 - [Hive mind](../../Novels/Hive%20mind.md): #novel made on April 30, 2024  
 - [Book idea - hive mind](../Ideas/Book%20idea%20-%20hive%20mind.md): #idea made on April 13, 2024  
