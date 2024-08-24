@@ -17,6 +17,7 @@ thoughts-summary: Book explains how the brain works with mental representations.
 # Linking notes  
 - [Peak - Anders Ericsson, Robert Pool](../Areas/Books/Peak%20-%20Anders%20Ericsson,%20Robert%20Pool.md): #book made on \-  
 - [2024-04-18](../../2024-04-18.md): #Journal made on April 18, 2024  
+- [UNTITLED CHAT 2024-06-16 01 52 06](../../UNTITLED%20CHAT%202024-06-16%2001%2052%2006.md):  made on June 16, 2024  
   
 # Notes  
 # Peak  
