@@ -5,11 +5,16 @@ themes:
 aliases:   
 ---  
 # Related topics  
+- [Sveltekit](./Sveltekit.md): is a related #topic. Sveltekit is related to [Web design](Web%20design.md), [Svelte](./Svelte.md)  
 - [html](./html.md): is a related #topic. html is related to [Web design](Web%20design.md)  
 - [Javascript](./Javascript.md): is a related #topic. Javascript is related to [CSS](./CSS.md), [Web design](Web%20design.md)  
 - [CSS](./CSS.md): is a related #topic. CSS is related to [html](./html.md), [Javascript](./Javascript.md), [Web design](Web%20design.md)  
   
 # Linking notes  
+- [idea - make a world building app](../Ideas/idea%20-%20make%20a%20world%20building%20app.md): #idea made on August 17, 2024  
+- [Create website for generating workout routines](../Ideas/Create%20website%20for%20generating%20workout%20routines.md): #idea made on July 18, 2024  
+- [API](./API.md): #atomic made on July 03, 2024  
+- [AJAX](./AJAX.md): #atomic made on July 03, 2024  
 - [Frontend dev challenges ](./Frontend%20dev%20challenges.md): #atomic made on June 14, 2024  
 - [Resilient Web design](../Ideas/Resilient%20Web%20design.md): #idea made on May 29, 2024  
 - [Bezier curve](./Bezier%20curve.md): #atomic made on May 29, 2024  

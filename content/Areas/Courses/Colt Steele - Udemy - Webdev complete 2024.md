@@ -26,6 +26,7 @@ So far in this course, I feel
   
 # Linking notes  
   
+- [JS, methods](../General/JS,%20methods.md): #atomic made on August 23, 2024  
 - [JS, for in loop](../General/JS,%20for%20in%20loop.md): #atomic made on July 07, 2024  
 - [JS, for of loop](../General/JS,%20for%20of%20loop.md): #atomic made on July 07, 2024  
 - [AJAX](../General/AJAX.md): #atomic made on July 03, 2024  
@@ -67,4 +68,5 @@ So far in this course, I feel
 - [HTML lists](../General/HTML%20lists.md): #atomic made on May 21, 2024  
 - [Web design resource - Mozilla Developer Docs](../General/Web%20design%20resource%20-%20Mozilla%20Developer%20Docs.md): #atomic made on May 21, 2024  
 - [2024-05-21](../../../2024-05-21.md): #Journal made on May 21, 2024  
+- [index](../../index.md):  made on \-  
   

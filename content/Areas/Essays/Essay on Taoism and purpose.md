@@ -1,7 +1,7 @@
 ---  
 date: 2024-07-15  
 tags:  
-  - idea  
+  - essay  
 complete: false  
 topics:  
   - "[Philosophy](Philosophy.md)"  

@@ -1,7 +1,7 @@
 ---  
 date: 2024-05-22  
 tags:  
-  - idea  
+  - essay  
 complete: false  
 topics:  
   - "[Writing](Writing.md)"  
