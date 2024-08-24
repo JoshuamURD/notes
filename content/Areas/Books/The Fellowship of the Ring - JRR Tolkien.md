@@ -1,5 +1,6 @@
 ---  
-tag: book  
+tags:  
+  - book  
 title: The Fellowship of the Ring  
 subtitle: "The Lord of the Rings: Part One"  
 author:  
@@ -11,9 +12,9 @@ publish: 1986-08-12
 total: 0  
 isbn: 0345339703 9780345339706  
 cover: http://books.google.com/books/content?id=g-OXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api  
-status: unread  
+status: read  
 created: 2024-06-25  
-date-completed:   
+date-completed: 2024-07-18  
 topics:   
 ---  
   
