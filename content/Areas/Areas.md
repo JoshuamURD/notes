@@ -4,7 +4,7 @@
 	- [Dealing with inherent suffering](Dealing%20with%20inherent%20suffering.md)  
 	- [Exercise and vaping](Exercise%20and%20vaping.md)  
 	- [How to get into dieting](How%20to%20get%20into%20dieting.md)  
-	- [Interpretations of stoicism](./Essays/Interpretations%20of%20stoicism.md)  
+	- [Interpretations of stoicism](Interpretations%20of%20stoicism.md)  
 	- [Mental health](Mental%20health.md)  
 	- [Methods to happiness](Methods%20to%20happiness.md)  
 	- [Monitor how you spend time](./Essays/Monitor%20how%20you%20spend%20time.md)  
