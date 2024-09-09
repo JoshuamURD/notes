@@ -5,8 +5,8 @@ themes:
 aliases:   
 ---  
 # Related topics  
-- [Sveltekit](./Sveltekit.md): is a related #topic. Sveltekit is related to [Web design](Web%20design.md), [Svelte](./Svelte.md)  
 - [html](./html.md): is a related #topic. html is related to [Web design](Web%20design.md)  
+- [Sveltekit](./Sveltekit.md): is a related #topic. Sveltekit is related to [Web design](Web%20design.md), [Svelte](./Svelte.md)  
 - [Javascript](./Javascript.md): is a related #topic. Javascript is related to [CSS](./CSS.md), [Web design](Web%20design.md)  
 - [CSS](./CSS.md): is a related #topic. CSS is related to [html](./html.md), [Javascript](./Javascript.md), [Web design](Web%20design.md)  
   
