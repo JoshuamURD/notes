@@ -88,8 +88,8 @@ My bookshelf is where you can see what I'm currently reading and what I've finis
 > | ![coverImg\|100](http://books.google.com/books/content?id=I1cfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [Frankenstein Or The Modern Prometheus - Mary Wollstonecraft Shelley Percy Bysshe Shelley](./Areas/Books/Frankenstein%20Or%20The%20Modern%20Prometheus%20-%20Mary%20Wollstonecraft%20Shelley%20Percy%20Bysshe%20Shelley.md) | <ul><li>Mary Wollstonecraft Shelley</li><li>Percy Bysshe Shelley</li></ul>              | 456         | read      |  
 > | ![coverImg\|100](http://books.google.com/books/content?id=QMY3CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [Make Every Word Count - Gary Provost](./Areas/Books/Make%20Every%20Word%20Count%20-%20Gary%20Provost.md)                                                                                                         | <ul><li>Gary Provost</li></ul>                                                          | 300         | read      |  
 > | ![coverImg\|100](http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [Man's Search For Meaning - Viktor E Frankl](./Areas/Books/Man's%20Search%20For%20Meaning%20-%20Viktor%20E%20Frankl.md)                                                                                             | <ul><li>Viktor E Frankl</li></ul>                                                       | 240         | read      |  
-> | ![coverImg\|100](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [On Writing - Stephen King](./Areas/Books/On%20Writing%20-%20Stephen%20King.md)                                                                                                                               | <ul><li>Stephen King</li></ul>                                                          | 108         | read      |  
 > | ![coverImg\|100](http://books.google.com/books/content?id=VVsmU-4YwFsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [Meditations - Aurelius Marcus](./Areas/Books/Meditations%20-%20Aurelius%20Marcus.md)                                                                                                                       | <ul><li>Aurelius Marcus</li></ul>                                                       | 228         | read      |  
+> | ![coverImg\|100](http://books.google.com/books/content?id=FytyvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [On Writing - Stephen King](./Areas/Books/On%20Writing%20-%20Stephen%20King.md)                                                                                                                               | <ul><li>Stephen King</li></ul>                                                          | 108         | read      |  
 > | ![coverImg\|100](http://books.google.com/books/content?id=rLECDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | [Peak - Anders Ericsson, Robert Pool](./Areas/Books/Peak%20-%20Anders%20Ericsson,%20Robert%20Pool.md)                                                                                                           | <ul><li>Anders Ericsson</li><li>Robert Pool</li></ul>                                   | 338         | read      |  
 > | ![coverImg\|100](http://books.google.com/books/content?id=M45vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [The Dispossessed - Ursula K Le Guin](./Areas/Books/The%20Dispossessed%20-%20Ursula%20K%20Le%20Guin.md)                                                                                                           | <ul><li>Ursula K. Le Guin</li></ul>                                                     | 0           | read      |  
 > | ![coverImg\|100](http://books.google.com/books/content?id=g-OXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | [The Fellowship of the Ring - JRR Tolkien](./Areas/Books/The%20Fellowship%20of%20the%20Ring%20-%20JRR%20Tolkien.md)                                                                                                 | <ul><li>J.R.R. Tolkien</li></ul>                                                        | 0           | read      |  
@@ -114,9 +114,9 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > [!SUMMARY]- Fiction  
 >  | Title                                                                                                  | Date imported  | Author                              |  
 > | ------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------------- |  
-> | [Ursla K Le Guin - The Dispossessed](./Literature%20notes/Ursla%20K%20Le%20Guin%20-%20The%20Dispossessed.md)         | March 23, 2024 | <ul><li>Ursula K. Le Guin</li></ul> |  
 > | [Ernest Hemingway - Old Man and the Sea](./Literature%20notes/Ernest%20Hemingway%20-%20Old%20Man%20and%20the%20Sea.md) | March 23, 2024 | <ul><li>Ernest Hemingway</li></ul>  |  
 > | [Daniel Keyes - Flowers for Algernon](./Literature%20notes/Daniel%20Keyes%20-%20Flowers%20for%20Algernon.md)       | March 23, 2024 | <ul><li>Daniel Keyes</li></ul>      |  
+> | [Ursla K Le Guin - The Dispossessed](./Literature%20notes/Ursla%20K%20Le%20Guin%20-%20The%20Dispossessed.md)         | March 23, 2024 | <ul><li>Ursula K. Le Guin</li></ul> |  
 > | [Yoel Hoffman - Japanese Death Poems](./Literature%20notes/Yoel%20Hoffman%20-%20Japanese%20Death%20Poems.md)       | \-             | \-                                  |  
 >   
   
@@ -126,11 +126,11 @@ Literature notes are the highlights and quotes that are extracted from my e-ink 
 > | [Stephen King - On Writing A Memoir of the Craft](./Literature%20notes/Stephen%20King%20-%20On%20Writing%20A%20Memoir%20of%20the%20Craft.md) | May 16, 2024   | <ul><li>Stephen King</li></ul>                     |  
 > | [Anderss Ericsson and Robert Pool - Peak](./Literature%20notes/Anderss%20Ericsson%20and%20Robert%20Pool%20-%20Peak.md)                 | April 18, 2024 | <ul><li>Anderss Ericsson and Robert Pool</li></ul> |  
 > | [Miyamoto Musashi - 21 principles of Dokkodo](./Literature%20notes/Miyamoto%20Musashi%20-%2021%20principles%20of%20Dokkodo.md)         | April 09, 2024 | <ul><li>Miyamoto Musashi</li></ul>                 |  
-> | [Victor E Frankl - Mans Search For Meaning](./Literature%20notes/Victor%20E%20Frankl%20-%20Mans%20Search%20For%20Meaning.md)             | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |  
-> | [Seneca - Letters from a Stoic](./Literature%20notes/Seneca%20-%20Letters%20from%20a%20Stoic.md)                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |  
-> | [Marcus Aurelius - Meditations](./Literature%20notes/Marcus%20Aurelius%20-%20Meditations.md)                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |  
-> | [Kate Murphy - You're Not Listening](./Literature%20notes/Kate%20Murphy%20-%20You're%20Not%20Listening.md)                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |  
 > | [Helen Fisher - Why We Love](./Literature%20notes/Helen%20Fisher%20-%20Why%20We%20Love.md)                                           | March 23, 2024 | <ul><li>Helen Fisher</li></ul>                     |  
+> | [Kate Murphy - You're Not Listening](./Literature%20notes/Kate%20Murphy%20-%20You're%20Not%20Listening.md)                           | March 23, 2024 | <ul><li>Kate Murphy</li></ul>                      |  
+> | [Marcus Aurelius - Meditations](./Literature%20notes/Marcus%20Aurelius%20-%20Meditations.md)                                     | March 23, 2024 | <ul><li>Marcus Aurelius</li></ul>                  |  
+> | [Seneca - Letters from a Stoic](./Literature%20notes/Seneca%20-%20Letters%20from%20a%20Stoic.md)                                     | March 23, 2024 | <ul><li>Seneca</li></ul>                           |  
+> | [Victor E Frankl - Mans Search For Meaning](./Literature%20notes/Victor%20E%20Frankl%20-%20Mans%20Search%20For%20Meaning.md)             | March 23, 2024 | <ul><li>Victor E Frankl</li></ul>                  |  
 > | [James Clear - Atomic Habits](./Literature%20notes/James%20Clear%20-%20Atomic%20Habits.md)                                         | \-             | James Clear                                        |  
 > | [Mortimer J Adler - How to Read a Book](./Literature%20notes/Mortimer%20J%20Adler%20-%20How%20to%20Read%20a%20Book.md)                     | \-             | <ul><li>Mortimer J Adler</li></ul>                 |  
 >   
@@ -145,12 +145,12 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [AI](AI.md)                                                                        | 1        |  
 > | [Alan watts](Alan%20watts.md)                                                        | 1        |  
 > | [Anarchy](Anarchy.md)                                                              | 1        |  
-> | [arch linux](arch%20linux.md)                                                        | 2        |  
+> | [arch linux](arch%20linux.md)                                                        | 3        |  
 > | [Fitness](./Areas/Essays/Fitness.md)                                              | 3        |  
 > | [Cognition](./Areas/General/Cognition.md)                                         | 1        |  
 > | [CSS](./Areas/General/CSS.md)                                                     | 20       |  
 > | [html](./Areas/General/html.md)                                                   | 6        |  
-> | [Javascript](./Areas/General/Javascript.md)                                       | 16       |  
+> | [Javascript](./Areas/General/Javascript.md)                                       | 17       |  
 > | [Learning](./Areas/General/Learning.md)                                           | 12       |  
 > | [logotherapy](./Areas/General/logotherapy.md)                                     | 1        |  
 > | [note taking](./Areas/General/note%20taking.md)                                     | 3        |  
@@ -158,6 +158,9 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [personal knowledge management](./Areas/General/personal%20knowledge%20management.md) | 2        |  
 > | [Philosophy](./Areas/General/Philosophy.md)                                       | 20       |  
 > | [Psychology](./Areas/General/Psychology.md)                                       | 5        |  
+> | [Sveltekit, layout data](./Areas/General/Sveltekit,%20layout%20data.md)               | 1        |  
+> | [Sveltekit, loading data](./Areas/General/Sveltekit,%20loading%20data.md)             | 7        |  
+> | [Sveltekit](./Areas/General/Sveltekit.md)                                         | 7        |  
 > | [Web design](./Areas/General/Web%20design.md)                                       | 12       |  
 > | [Writing](./Areas/General/Writing.md)                                             | 14       |  
 > | [Givers and receivers](./Areas/Ideas/Givers%20and%20receivers.md)                     | 1        |  
@@ -170,7 +173,7 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [exercise](exercise.md)                                                            | 1        |  
 > | [habits](habits.md)                                                                | 2        |  
 > | [Human condition](Human%20condition.md)                                              | 3        |  
-> | [linux](linux.md)                                                                  | 1        |  
+> | [linux](linux.md)                                                                  | 2        |  
 > | [Listening](Listening.md)                                                          | 1        |  
 > | [Music](Music.md)                                                                  | 1        |  
 > | [neurology](neurology.md)                                                          | 4        |  
@@ -207,6 +210,7 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [CSS specificity](./Areas/General/CSS%20specificity.md)                             |  
 > | [CSS](./Areas/General/CSS.md)                                                     |  
 > | [Deliberate practice](./Areas/General/Deliberate%20practice.md)                     |  
+> | [HTML forms](./Areas/General/HTML%20forms.md)                                       |  
 > | [HTML inline vs block elements](./Areas/General/HTML%20inline%20vs%20block%20elements.md) |  
 > | [html](./Areas/General/html.md)                                                   |  
 > | [Javascript](./Areas/General/Javascript.md)                                       |  
@@ -220,6 +224,7 @@ These are the topics and themes which I have explored in my learning or writing.
 > | [note taking](./Areas/General/note%20taking.md)                                     |  
 > | [Psychology](./Areas/General/Psychology.md)                                       |  
 > | [Purposeful practice](./Areas/General/Purposeful%20practice.md)                     |  
+> | [Sveltekit](./Areas/General/Sveltekit.md)                                         |  
 > | [Web design](./Areas/General/Web%20design.md)                                       |  
 > | [blogging](blogging.md)                                                            |  
 > | [Cynicism](Cynicism.md)                                                            |  

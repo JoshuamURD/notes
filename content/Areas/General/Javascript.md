@@ -12,6 +12,7 @@ Javascript can be considered as the doing stuff of web development. The actions.
 - [CSS](./CSS.md): is a related #topic. CSS is related to [html](./html.md), [Javascript](Javascript.md), [Web design](./Web%20design.md)  
   
 # Linking notes  
+- [JS, forEach and map](./JS,%20forEach%20and%20map.md): #atomic made on September 01, 2024  
 - [JS, methods](./JS,%20methods.md): #atomic made on August 23, 2024  
 - [JS, for of loop](./JS,%20for%20of%20loop.md): #atomic made on July 07, 2024  
 - [JS, for in loop](./JS,%20for%20in%20loop.md): #atomic made on July 07, 2024  

@@ -26,6 +26,7 @@ So far in this course, I feel
   
 # Linking notes  
   
+- [JS, forEach and map](../General/JS,%20forEach%20and%20map.md): #atomic made on September 01, 2024  
 - [JS, methods](../General/JS,%20methods.md): #atomic made on August 23, 2024  
 - [JS, for in loop](../General/JS,%20for%20in%20loop.md): #atomic made on July 07, 2024  
 - [JS, for of loop](../General/JS,%20for%20of%20loop.md): #atomic made on July 07, 2024  

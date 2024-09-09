@@ -1,12 +1,12 @@
 ---  
 tags:  
   - topic  
-themes:   
+themes:  
+  - "[Sveltekit](Sveltekit.md)"  
 aliases:   
 ---  
-A [Web design](./Web%20design.md) framework which is built on top of the [Svelte](./Svelte.md) ui library. It offers routing, hooks, component.   
+  
 # Related topics  
-- [Sveltekit, loading data](./Sveltekit,%20loading%20data.md): is a related #topic. Sveltekit, loading data is related to [Sveltekit](Sveltekit.md)  
   
 # Linking notes  
 - [Sveltekit, page data](./Sveltekit,%20page%20data.md): #atomic made on 9:23 AM - September 09, 2024  
@@ -16,3 +16,14 @@ A [Web design](./Web%20design.md) framework which is built on top of the [Svelte
 - [Sveltekit, context API](./Sveltekit,%20context%20API.md): #atomic made on September 09, 2024  
 - [Sveltekit, URL data](./Sveltekit,%20URL%20data.md): #atomic made on September 09, 2024  
 - [Sveletekit, authorisation](./Sveletekit,%20authorisation.md): #atomic made on September 09, 2024  
+  
+  
+# When does a load function run?  
+Server load functions always run on the server first. Universal load functions (A.K.A server.js files) will run on the server first during SSR and then subsequent navigation will be run on the client - however, the client will reuse fetch responses.  
+  
+# What can be returned in a load function?  
+A load function can return an object containing any values.  
+  
+  
+It can also return custom classes and component constructors.  
+  
